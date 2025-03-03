@@ -3,31 +3,31 @@
 {
 "name":"推荐",
 "list":[
-{"name":"影视APP","url":"https://gitee.com/RS818/lz/raw/master/lib/fm.png","icon":"https://gitee.com/RS818/lz/raw/master/lib/fm.png"}]},
+{"name":"影视APP","url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png"}]},
 
 
 {"name":"影视正式版","list":[
 
-{"name":"电视-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon":"./jar/fm.png","version":"v7a"},
+{"name":"电视-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
-{"name":"电视-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon":"./jar/fm.png","version":"v8a"},
+{"name":"电视-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
 
-{"name":"电视-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk","icon":"./jar/fm.png","version":"v7a"},
+{"name":"电视-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
-{"name":"电视-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon":"./jar/fm.png","version":"v8a"},
+{"name":"电视-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
 
-{"name":"手机-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk","icon":"./jar/fm.png","version":"v7a"},
+{"name":"手机-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
-{"name":"手机-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon":"./jar/fm.png","version":"v8a"},
+{"name":"手机-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
 
-{"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon":"./jar/fm.png","version":"v7a"},
+{"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
-{"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon":"./jar/fm.png","version":"v8a"}]},
+{"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"}]},
 
 
 {"name":"影视4.X版","list":[
 
-{"name":"电视-4.X","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/refs/heads/okjack/apk/kitkat/leanback.apk","icon":"./jar/fm.png","version":"v7a"}]}
+{"name":"电视-4.X","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/refs/heads/okjack/apk/kitkat/leanback.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"}]}
 
 
 
