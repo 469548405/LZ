@@ -13,7 +13,7 @@
 ],
 
 "sites":[
-{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./jar/tokenm.json$$$./jar/douban.json"},
+{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 
 
 {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"baHR0cDovL3R0LnlzZHFqcy5jbg==","jar":"./jar/fix250221.jar"},
@@ -68,7 +68,7 @@
 
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./jar/tokenm.json","jar":"./pg.jar"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar"}
 
 ],
 
