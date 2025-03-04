@@ -8,9 +8,10 @@
 {"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15"},
 {"name":"【饭钛直播】","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","ua":"okhttp/3.15"},
 {"name":"【Tang直播】","type": 0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
-{"name":"【BIP  TV】","type":0,"url":"https://gitee.com/RS818/lz/raw/master/lib/biptv.txt","ua":"okhttp/3.15"},
 {"name":"【天天更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15"},
-{"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"}
+{"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
+{"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15"},
+{"name":"【Gather网络】","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15"}
 ],
 
 "sites":[
