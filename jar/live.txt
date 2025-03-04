@@ -1,4 +1,4 @@
-⏹央视频道▶,#genre#
+﻿⏹央视频道▶,#genre#
 
 
 CCTV-1综合,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv1.m3u8
@@ -78,8 +78,26 @@ CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/it
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000011000288014.m3u8?cdn=bestzb
 
-
-
+CCTV-1综合,http://tvbox6.icu/tv/migu.php?id=cctv1
+CCTV-2财经,http://tvbox6.icu/tv/migu.php?id=cctv2
+CCTV-3综艺,http://tvbox6.icu/tv/migu.php?id=cctv3
+CCTV-4中文国际,http://tvbox6.icu/tv/migu.php?id=cctv4
+CCTV-5体育,http://tvbox6.icu/tv/migu.php?id=cctv5
+CCTV-5+体育赛事,http://tvbox6.icu/tv/migu.php?id=cctv5p
+CCTV-6电影,http://tvbox6.icu/tv/migu.php?id=cctv6
+CCTV-7国防军事,http://tvbox6.icu/tv/migu.php?id=cctv7
+CCTV-8电视剧,http://tvbox6.icu/tv/migu.php?id=cctv8
+CCTV-9纪录,http://tvbox6.icu/tv/migu.php?id=cctv9
+CCTV-10科教,http://tvbox6.icu/tv/migu.php?id=cctv10
+CCTV-11戏曲,http://tvbox6.icu/tv/migu.php?id=cctv11
+CCTV-12社会与法,http://tvbox6.icu/tv/migu.php?id=cctv12
+CCTV-13新闻,http://tvbox6.icu/tv/migu.php?id=cctv13
+CCTV-14少儿,http://tvbox6.icu/tv/migu.php?id=cctv14
+CCTV-15音乐,http://tvbox6.icu/tv/migu.php?id=cctv15
+CCTV-16奥林匹克,http://tvbox6.icu/tv/migu.php?id=cctv16
+CCTV-17农业农村,http://tvbox6.icu/tv/migu.php?id=cctv17
+CCTV-4中文国际奥洲,http://tvbox6.icu/tv/migu.php?id=cctv4a
+CCTV-4中文国际欧洲,http://tvbox6.icu/tv/migu.php?id=cctv4o
 
 
 
@@ -117,6 +135,20 @@ CGTN-英语,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/8888888
 
 
 ⏹卫视频道▶,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+
+凤凰中文,http://dns.yiandrive.com:15907/phenix/fhzw
+凤凰资讯,http://dns.yiandrive.com:15907/phenix/fhzx
+凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+
+
 四川卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000004000006119.m3u8?cdn=bestzb
 湖南卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000004000006692.m3u8?cdn=bestzb
 北京卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000004000031556.m3u8?cdn=bestzb
@@ -216,6 +248,34 @@ CGTN-英语,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/8888888
 山东教育卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000002000004097.m3u8?cdn=ystenlive
 四川康巴卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000266002.m3u8?cdn=ystenlive
 安多卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000266001.m3u8?cdn=ystenlive
+
+广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws
+湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws
+湖北卫视,http://tvbox6.icu/tv/migu.php?id=hubws
+重庆卫视,http://tvbox6.icu/tv/migu.php?id=cqws
+东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws
+甘肃卫视,http://tvbox6.icu/tv/migu.php?id=gsws
+广西卫视,http://tvbox6.icu/tv/migu.php?id=gxws
+贵州卫视,http://tvbox6.icu/tv/migu.php?id=gzws
+海南卫视,http://tvbox6.icu/tv/migu.php?id=hinws
+河南卫视,http://tvbox6.icu/tv/migu.php?id=hnws
+吉林卫视,http://tvbox6.icu/tv/migu.php?id=jlws
+江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws
+江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws
+辽宁卫视,http://tvbox6.icu/tv/migu.php?id=lnws
+内蒙古卫视,http://tvbox6.icu/tv/migu.php?id=nmws
+宁夏卫视,http://tvbox6.icu/tv/migu.php?id=nxws
+青海卫视,http://tvbox6.icu/tv/migu.php?id=qhws
+山东卫视,http://tvbox6.icu/tv/migu.php?id=sdws
+陕西卫视,http://tvbox6.icu/tv/migu.php?id=sxws
+西藏卫视,http://tvbox6.icu/tv/migu.php?id=xzws
+新疆卫视,http://tvbox6.icu/tv/migu.php?id=xjws
+云南卫视,http://tvbox6.icu/tv/migu.php?id=ynws
+大湾区卫视,http://tvbox6.icu/tv/migu.php?id=dwqws
+东方影视,http://tvbox6.icu/tv/migu.php?id=dfys
+
+
+
 
 
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -388,6 +448,47 @@ SiTV-游戏风云,http://127.0.0.1:10079/c/3600/null/hhttp://127.0.0.1:35456/itv
 炫彩3D,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/6000000003000000558.m3u8?cdn=wasusyt
 中国天气,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000005000031974.m3u8?cdn=bestzb
 中华美食,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000266015.m3u8?cdn=ystenlive
+
+
+CHC家庭影院,http://tvbox6.icu/tv/migu.php?id=chcjtdy
+CHC动作电影,http://tvbox6.icu/tv/migu.php?id=chcdzdy
+湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346
+湖南经视,http://tvbox6.icu/tv/mgtv.php?id=280
+湖南电视剧,http://tvbox6.icu/tv/mgtv.php?id=484
+湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221
+湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261
+湖南娱乐,http://tvbox6.icu/tv/mgtv.php?id=344
+湖南国际,http://tvbox6.icu/tv/mgtv.php?id=229
+长沙新闻,http://tvbox6.icu/tv/mgtv.php?id=269
+长沙政法,http://tvbox6.icu/tv/mgtv.php?id=254
+长沙女性,http://tvbox6.icu/tv/mgtv.php?id=230
+金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316
+七彩戏剧,http://tvbox6.icu/tv/migu.php?id=qcxj
+上海外语,http://tvbox6.icu/tv/migu.php?id=shics
+动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
+上海新闻综合,http://tvbox6.icu/tv/migu.php?id=shxwzh
+上海第一财经,http://tvbox6.icu/tv/migu.php?id=dycj
+南京十八,http://tvbox6.icu/tv/migu.php?id=njsb
+南京教科,http://tvbox6.icu/tv/migu.php?id=njkj
+南京新闻综合,http://tvbox6.icu/tv/migu.php?id=njxwzh
+淮安新闻综合,http://tvbox6.icu/tv/migu.php?id=haxwzh
+苏州新闻综合,http://tvbox6.icu/tv/migu.php?id=szxwzh
+双流综合,http://tvbox6.icu/tv/cditv.php?id=slzh
+劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty
+睛彩篮球,http://tvbox6.icu/tv/zb/zjctcc.php?id=344
+睛彩羽毛球,http://tvbox6.icu/tv/zb/zjctcc.php?id=346
+魅力足球,http://tvbox6.icu/tv/migu.php?id=mlzq
+快乐垂钓,http://tvbox6.icu/tv/mgtv.php?id=218
+优漫卡通,http://tvbox6.icu/tv/migu.php?id=ymkt
+金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
+游戏风云,http://tvbox6.icu/tv/migu.php?id=yxfy
+
+
+
+
+
+
+
 
 
 
