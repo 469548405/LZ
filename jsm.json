@@ -1,5 +1,5 @@
 ﻿{
-"spider":"./pg.jar;md5;54c545c9904f99870e804246543fcada",
+"spider":"./pg.jar;md5;f606fa9efd26801443bfc06693f0e0a8",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -8,9 +8,7 @@
 {"name":"【国内分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15"},
 {"name":"【Tang直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【天天更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15"},
-{"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
-{"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15"},
-{"name":"【Gather网络】","type":0,"url":"https://tv.iill.top/m3u/Live","ua":"okhttp/3.15"}
+{"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"}
 
 ],
 
@@ -73,7 +71,7 @@
 
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;54c545c9904f99870e804246543fcada"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;f606fa9efd26801443bfc06693f0e0a8"}
 
 ],
 
