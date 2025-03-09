@@ -5,15 +5,18 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15"},
-{"name":"【饭钛直播】","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","ua":"okhttp/3.15"},
-{"name":"【Tang直播】","type": 0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【饭钛直播】","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","ua":"okhttp/3.15","playerType":1},
+{"name":"【Tang直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【天天更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15"},
-{"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"}
+{"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
+{"name":"【IPTV4】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt","ua":"okhttp/3.15","playerType":1},
+{"name":"【IPTV6】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt","ua":"okhttp/3.15"},
+{"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15"}
 ],
 
 "sites":[
- {"key":"豆豆","name":"🍥豆--瓣🍥","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆豆","name":"🍥豆--瓣🍥","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"filterable":0},
 
 
 
@@ -120,7 +123,7 @@
 
 
 "ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"],
-    
+
 
 "ijk":[
 {"group":"软解码","options":[

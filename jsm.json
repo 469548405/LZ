@@ -9,11 +9,14 @@
 {"name":"【Tang直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【天天更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15"},
+{"name":"【IPTV4】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt","ua":"okhttp/3.15","playerType":1},
+{"name":"【IPTV6】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt","ua":"okhttp/3.15"},
 {"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15"}
 
 ],
 
 "sites":[
+
 {"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 
 {"key":"巧技","name":"巧技┃专线","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
