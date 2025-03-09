@@ -18,6 +18,14 @@ CCTV-15音乐,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cc
 CCTV-16奥林匹克,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv16.m3u8
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv17.m3u8
 
+
+CGTN-英语,https://0472.org/hls/cgtn.m3u8
+CGTN-俄语,https://0472.org/hls/cgtne.m3u8
+CGTN-法语,https://0472.org/hls/cgtnf.m3u8
+CGTN-纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN-西班牙语,https://0472.org/hls/cgtnx.m3u8
+CGTN-阿拉伯语,https://0472.org/hls/cgtna.m3u8
+
 CGTN-阿拉伯语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnar.m3u8
 CGTN-记录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtndoc.m3u8
 CGTN-英语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnen.m3u8
@@ -25,6 +33,8 @@ CGTN-法语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtn
 CGTN-西班牙语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnsp.m3u8
 CGTN-英语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/7745129417417101820.m3u8?cdn=hnbblive
 CGTN-记录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/7114647837765104058.m3u8?cdn=hnbblive
+
+
 
 CCTV-1综合,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000001000018602.m3u8?cdn=ystenlive
 CCTV-1综合,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000265001.m3u8?cdn=ystenlive
@@ -75,6 +85,7 @@ CCTV-16奥林匹克,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/it
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000265015.m3u8?cdn=ystenlive
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000006000268004.m3u8?cdn=ystenlive
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000011000288014.m3u8?cdn=bestzb
+
 
 
 
