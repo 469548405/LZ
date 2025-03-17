@@ -1,0 +1,117 @@
+﻿{
+"spider":"./jar/18.jar;md5;4b13c299ed9dfca65bc775507a7d0118",
+"wallpaper":"https://深色壁纸.xxooo.cf/",
+
+"lives":[
+{"name":"【电视直播】","type":0,"url":"./jar/18.txt","playerType":1},
+{"name":"【欧美传媒】","type":0,"url":"./jar/18md.txt","playerType":1}
+
+],
+
+
+"sites":[
+{"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"http://www.fish2018.ip-ddns.com/p/lib/live2vod.js","ext":"https://slink.ltd/raw.githubusercontent.com/fish2018/lib/main/json/feimaolive.json"},
+
+{"key":"色播","name":"🔞色播直播","type":3,"api":"https://slink.ltd/raw.githubusercontent.com/guot55/yg/main/h/色播.js","searchable":1,"changeable":0},
+{"key":"色猫","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"ms4nii","name":"🔞美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"淫水机","name":"🔞淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"*AIvin","name":"🔞AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"黄AV","name":"🔞黄AV","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"*易看资源","name":"🔞易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"dadiapi.com","name":"🔞成人01","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},
+"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"f2dcj6.com","name":"🔞成人02","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},
+"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"gdlsp.com","name":"🔞成人03","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33},
+"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+
+{"key":"富二代资源","name":"🈲富二代资源","type":0,"api":"http:f2dcj6.com/sapi/?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"色猫资源","name":"🈲色猫资源","type":1,"api":"https:api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"白嫖资源","name":"🈲白嫖资源","type":0,"api":"https:www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"香奶儿资源","name":"🈲香奶儿资源","type":0,"api":"https:www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"美少女资源","name":"🈲美少女资源","type":0,"api":"https:www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"黄AV资源","name":"🈲黄AV资源","type":0,"api":"https:www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"钦水机资源","name":"🈲钦水机资源","type":0,"api":"https:www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0,"filterable":0},
+
+
+{"key":"CK资源2","name":"🈲CK资源2","type":0,"api":"https:ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"CK资源3","name":"🈲CK资源3","type":1,"api":"https:ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"大地资源","name":"🈲大地资源","type":0,"api":"https:dadiapi.com/api.php/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"大地资源1","name":"🈲大地资源1","type":0,"api":"https://dadiapi.com/api.php","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"大地资源2","name":"🈲大地资源2","type":0,"api":"https:dadiapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"大地资源3","name":"🈲大地资源3","type":0,"api":"https:dadiapi.com/apple_m3u8.php","playUrl":"https:play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"番号资源1","name":"🈲番号资源1","type":1,"api":"http:fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"番号资源2","name":"🈲番号资源2","type":0,"api":"http:fhapi9.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"番号资源3","name":"🈲番号资源3","type":1,"api":"http:fhapi9.com/api.php/provide/vod/at/json","searchable":0,"quickSearch":0},
+{"key":"番号资源4","name":"🈲番号资源4","type":1,"api":"http:fhapi9.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"乐播资源1","name":"🈲乐播资源1","type":1,"api":"http://lbapiby.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"乐播资源2","name":"🈲乐播资源2","type":1,"api":"http://lbapiby.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"乐播资源3","name":"🈲乐播资源3","type":0,"api":"https:lbapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"乐播资源4","name":"🈲乐播资源4","type":1,"api":"https:lbapi9.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
+{"key":"森林专场","name":"🈲森林采集","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["精品推荐","国产色情","主播直播","亚洲无码","亚洲有码","中文字幕","巨乳美乳","人妻熟女","强奸乱伦","欧美精品","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜","网曝门","传媒出品","女同性恋","男同性恋","恋腿狂魔"]},
+{"key":"易看资源","name":"🈲易看资源","type":1,"api":"https:api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+
+
+{"key":"XMVideo","name":"🔞熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1},
+{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"categories":["伦理片"]},
+{"key":"非凡资源","name":"🔞非凡资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playurl":"https://ffzyplayer.com/?url=","categories":["伦理片"]},
+{"key":"✨柠檬✨","name":"✨🔞柠檬✨","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"jar":"./jar/hl.jar","filterable":1,"ext":{"数组":"<a&&</a>","标题":"<p&&</p>","图片":"<imgsrc=\"&&\"","链接":"href=\"&&\"","分类url":"https://www.lsshaofu.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类":"国产精品$1#日韩精选$2#国产传媒$3#国产自拍$27#网红网爆$5#成人动漫$21#巨乳美乳$22#熟女人妻$23#主播直播$24#强奸乱伦$25#古怪少女$26#经典三级$4"}},
+{"key":"HiPianZhiBo","name":"🔞嗨片直播|视频","type":3,"api":"csp_HiPianZhiBo","searchable":1,"filterable":1},
+{"key":"JJAiPian","name":"🔞久久爱片|视频","type":3,"api":"csp_JJAiPian","searchable":1,"filterable":1},
+{"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
+{"key":"小幺女|床吧","name":"🔞小幺女","type":3,"playerType":2,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"站名":"小幺女","主页url":"https://xxynhkaa1.buzz/sort/id/245.html","数组":"class=\"vod_box\">&&</li>","图片":"url('&&'","标题":"title=\"&&\"","链接":"https://xxynhkaa1.buzz/detail+href='/display&&'","跳转播放链接":"varplayUrl='&&'","直接播放":"1","嗅探词":"index.m3u8","分类数组":"<a&&</a","分类标题":"target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]","分类ID":"href=\"/sort/id/&&.html\"","分类url":"https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"}},
+{"key":"糖心","name":"🔞糖心次元","type":3,"api":"csp_XBPQ","jar":"./jar/hl.jar","style":{"ratio":1.7},"ext":{"数组":"<section&&</section","副标题":"添加时间:&&</span>","嗅探词":"cdn2020.com#m3u8","分类url":"http://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z","分类":"国产片商$32#节目企划$3#代理节目$2#麻豆原创$1#导演系列$5#MDS系列$6#MDX系列$7#MD系列$4#MDXS系列$8#兔子先生$10#大鸟十八$17#疯拍系列$18#KISS糖果屋$19#小鹏奇啪行$20#30天解密麻豆$22#突袭女优计划$23#女神羞羞研究所$24#小哥哥艾理$27#情趣K歌房$31#淫欲游戏王$40#麻豆不回家$41#叮叮映画$71#涩会$72#豚豚创媒$75#MDL系列$46#MMZ系列$50#MAD系列$53#MDWP系列$58#MSD系列$64#MDM恋爱咖啡$74#MDUS系列$78#MXJ系列$79#MKY系列$87#MAN系列$89#MCY系列$96#MDAG系列$100#MDHT系列$101#BLX系列$115#MPG系列$116#果冻传媒$11#皇家华人$12#吴梦梦无套系列$13#PsychoPorn色控$14#蜜桃影像传媒$15#天美传媒$45#乌鸦传媒$33#精东影业$34#SWAG$36#91制片厂$52#MSM性梦者$65#爱妃传媒$76#辣椒原创$80#O-STAR$81#肉肉传媒$91#渡边传媒$95#葵心娱乐$97#红斯灯影像$103#麻麻传媒$104#蝌蚪传媒$105#PussyHunter$106#桃花源$108#女优淫娃培训营$42#狼人插$54#女优擂台摔角狂热$55#恋爱巴士$61#男女优生死斗$66#情人劫密室逃脱$67#换妻$68#你好同学$69#禁欲小屋$77#鲍鱼的胜利$84#性爱自修室$88#春游记$92#心动的性号$93#情趣大富翁$94#寻宝吧女神$99#男优练习生$102#女神体育祭$110#麻豆高校$111#野外露初$112#星空无限传媒$47#乐播传媒$48#大象传媒$59#MINI传媒$62#糖心$73#葫芦影业$82#天马传媒$83#CCAV成人头条$90#性视界传媒$109#SA国际传媒$113#起点传媒$114#91茄子$117#草莓猛料$118"}},
+{"key":"麻豆","name":"🔞麻豆","type":3,"changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","jar":"./jar/xyqxbpq.jar","style":{"ratio":1.7},"ext":{"搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类":"日本视频$1#麻豆视频$2","分类url":"http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html","直接播放":"1"}},
+{"key":"影视","name":"影视18","type":1,"api":"https://155api.com/api.php/provide/vod/"},
+{"key":"鸡坤资源","name":"👠鸡坤资源","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"9号资源","name":"👠9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
+{"key":"滴滴资源","name":"👠滴滴资源","type":0,"api":"https://api.ddapi.cc/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"葡萄","name":"🔞采集.葡萄资源","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1},
+{"key":"森林","name":"🔞采集.森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable":1},
+{"key":"玉兔专场","name":"🔞玉兔采集","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
+{"key":"大地专场","name":"🔞大地采集","type":0,"api":"https://dadiapi.com/api.php","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["日韩无码","强奸乱伦","欧美精品","国产精品","人妻系列","中文字幕","动漫精品","伦理影片","日韩精品","制服诱惑","自拍偷拍","AV明星","3P合辑","巨乳系列","颜射系列","口交视频","自慰系列","SM重味","教师学生","大秀视频","AV明星1"]},
+{"key":"乐播","name":"️🔞乐播采集","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["亚洲情色","国产主播","国产自拍","无码专区","欧美性爱","熟女人妻","强奸乱伦","巨乳美乳","中文字幕","制服诱惑","女同性恋","卡通动画","视频伦理","少女萝莉","重口色情","人兽性交"]},
+{"key":"155专场","name":"🔞155采集","type":1,"api":"https://155api.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["无码专区","麻豆传媒","制服诱惑","三级伦理","AI换脸","中文字幕","卡通动漫","欧美系列","美女主播","国产自拍","熟女人妻","萝莉少女","女同性爱","多人群交","美乳巨乳","强奸乱伦","抖音视频","韩国主播","网红头条","网爆黑料","欧美无码","女优明星","SM调教","AV解说"]},
+{"key":"番外","name":"🔞番外采集","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["群交淫乱","偷拍自拍","制服丝袜","无码专区","卡通动漫","中文字幕","欧美性爱","巨乳美乳","国产裸聊","国产自拍","国产盗摄","伦理三级","女同性恋","少女萝莉","人妖系列","虚拟VR"]},
+{"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*大地资源","name":"*🔞大地资源","type":0,"api":"https://dadiapi.com/api.php","searchable":0,"quickSearch":0},
+{"key":"老鸭2","name":"*🔞老鸭2","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","playUrl":"json:https://player.77lehuo.com/aliplayer/?url=","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"fhapi9.com","name":"🔞成人14","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0},
+{"key":"lbapi9.com","name":"🔞成人41","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0},
+{"key":"*乐播资源","name":"*🔞乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*番号资源","name":"*🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
+
+
+{"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"jar":"./jar/18.jar;md5;4b13c299ed9dfca65bc775507a7d0118"}
+],
+
+
+"doh":[
+{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
+{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
+{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
+{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
+"proxy":["raw.githubusercontent.com","googlevideo.com","googleapis.com","youtube.com"],
+"rules":[
+{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
+{"name":"毛驢點擊","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","直播","更新","社区","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}
+
+
+],
+"ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net"]
+
+}
+
+
+
+
