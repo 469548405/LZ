@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"./jar/f0315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
+"spider":"./jar/f0221.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -18,7 +18,7 @@
 
 "sites":[
 
-{"key":"豆","name":"🍥豆--瓣🍥","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"豆","name":"🍥豆--瓣🍥","type":3,"api":"csp_DouDou","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 
 
 {"key":"巧技","name":"巧技┃专线","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
@@ -75,7 +75,7 @@
 
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/refs/heads/main/jar/custom_spider.jar"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"jar":"./jar/f0315.jar;md5;92a4933113be29d94549f5bd3f03cd6b"}],
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"jar":"./jar/f0221.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3"}],
 
 
 
