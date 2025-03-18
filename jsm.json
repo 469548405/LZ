@@ -1,13 +1,13 @@
 ﻿{
 
-"spider":"./pg.jar;md5;f46658ddaae89d68d8af234c2137c127",
+"spider":"./pg.jar;md5;1721517bae5cade1e3e68e3275c1e07a",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
 {"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15"},
-{"name":"【国内分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15"},
-{"name":"【V4聚合（卡顿请按左┃右键换线）】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
+{"name":"【国内分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+{"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
 {"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
 {"name":"【BIPTV(IPV6)】","type":0,"url":"./jar/biptv.txt","ua":"okhttp/3.15"},
 {"name":"【Tang直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
@@ -74,7 +74,7 @@
 
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;f46658ddaae89d68d8af234c2137c127"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;1721517bae5cade1e3e68e3275c1e07a"}
 
 
 ],
@@ -121,7 +121,7 @@
 {"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
 {"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
-{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","直播","更新","社区","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]}]
+{"name":"磁力广告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","直播","更新","社区","有趣","英皇体育","全中文AV在线","新片首发","UUE29"]}]
 
 
 }
