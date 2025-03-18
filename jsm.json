@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"./pg.jar;md5;c79c9f846b7eda2c99569fb5c8cd3eed",
+"spider":"./pg.jar;md5;f46658ddaae89d68d8af234c2137c127",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -74,7 +74,7 @@
 
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;c79c9f846b7eda2c99569fb5c8cd3eed"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;f46658ddaae89d68d8af234c2137c127"}
 
 
 ],
