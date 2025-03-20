@@ -69,7 +69,7 @@
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU=","jar":"./jar/f0221.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3"},
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/f0221.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3"},
 {"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/","jar":"./jar/f0221.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3"},
-{"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJ","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/f0318.jar;md5;dda5ab42b722f13761900308a6caff89"},
+{"key":"贱贱","name":"🐭荐片┃P2P","type":3,"api":"csp_JPJ","playerType":2,"searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/f0221.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3"},
 
 
 
