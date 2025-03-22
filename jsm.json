@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"./pg.jar;md5;a0ba108a716ee095460e4f3162751c80",
+"spider":"./pg.jar;md5;6d4acefc910cd36ca4743a36194e2c4e",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -11,7 +11,6 @@
 {"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
 {"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","playerType":2},
 {"name":"【BIPTV(IPV6)】","type":0,"url":"./jar/biptv.txt","ua":"okhttp/3.15"},
-{"name":"【Tang直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【天天更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15"}
 
@@ -90,7 +89,7 @@
 {"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"ext":"./lib/tokenm.json","style":{"type":"rect","ratio":1.5}},
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0,"jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json","jar":"https://slink.ltd/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;a0ba108a716ee095460e4f3162751c80"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;6d4acefc910cd36ca4743a36194e2c4e"}
 
 
 ],
@@ -139,9 +138,8 @@
 {"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
 {"name":"磁力广告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","直播","更新","社区","有趣","英皇体育","全中文AV在线","新片首发","UUE29"]}],
 
-"ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net","43.248.128.138"],
+"ads":["static-mozai.4gtv.tv","s3t3d2y8.afcdn.net","43.248.128.138"]
 
-"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}]
 
 }
 
