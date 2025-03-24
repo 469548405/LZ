@@ -5,10 +5,10 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15"},
 {"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1},
 {"name":"【Gather电视】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15"},
-{"name":"【BIPTV(IPV6)】","type":0,"url":"./lib/biptv.txt","ua":"okhttp/3.15"},
+{"name":"【BIPTV(IPV6)】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/lib/biptv.txt","ua":"okhttp/3.15"},
 {"name":"【Tang直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/alantang1977/JunTV/main/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【每日更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【天天更新】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt","ua":"okhttp/3.15"}
@@ -36,7 +36,8 @@
 {"key":"雨滴","name":"雨滴┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA=","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
 {"key":"现代","name":"现代┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ=","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
 {"key":"玉米","name":"玉米┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly93d3cuempjLmFwcC98YWI0ZTlhNDIxNjc1ZjE0YnxhYjRlOWE0MjE2NzVmMTRifDQ0Mg==","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
-{"key":"优质","name":"优质┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},{"key":"木叶","name":"木叶┃App","type":3,"api":"csp_Xdai","playerType":2,"ext":"saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc=","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
+{"key":"优质","name":"优质┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cDovL2R5eXp0dmFwcGFwaWdvb2RneC42OC5neS9jaXdrMjh2dTM4aW84L2FwaXVybC50eHR8ZHl5enR2YXBpYXBweXlkc3xkeXl6dHZhcGlhcHB5eWRzfDEwMA==","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
+{"key":"木叶","name":"木叶┃App","type":3,"api":"csp_Xdai","playerType":2,"ext":"saHR0cDovLzExMy40NS4yNDMuMjMzL211eWUudHh0fFJ1TjlMUnZ3VFJncFFucEt8UnVOOUxSdndUUmdwUW5wS3w1NDc=","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
 {"key":"蝴蝶","name":"蝴蝶┃App","type":3,"api":"csp_Hudie","playerType":2,"ext":"eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
 {"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
 {"key":"Dygang","name":"电影港[边下边播]","type":3,"api":"csp_Dygang","jar":"./jar/fix250304.jar;md5;9d8407a76b2abeeaabdd147b1b93799f"},
@@ -170,6 +171,5 @@
 
 
 }
-
 
 
