@@ -390,7 +390,7 @@ NewTV-军旅剧场,http://1752e145z8.vicp.fun:35455/itv/2000000003000000014.m3u8
 
 
 ⏹央视频道▶,#genre#
-CCTV-1综合,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv1.m3u8
+CCTV-1综合,http://127.0.0.1:10199/c/3600/null/http://127.0.0.1:35456/gaoma/cctv1.m3u8
 CCTV-2财经,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv2.m3u8
 CCTV-3综艺,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv3.m3u8
 CCTV-4中文国际,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv4.m3u8
