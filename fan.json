@@ -5,9 +5,11 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15"},
-{"name":"【网络收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","playerType":2,"timeout":10},
-{"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1}
+{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15","playerType":2,"timeout":10},
+{"name":"【欧歌收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
+{"name":"【天微MTV】","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt","playerType":2,"ua":"okhttp/5.0.0-alpha.14"},
+{"name":"【天微②路】","type":0,"url":"http://rihou.cc:567/gggg.nzk","playerType":2,"ua":"okhttp/3"},
+{"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1,"ua":"okhttp/3.15"}
 
 ],
 

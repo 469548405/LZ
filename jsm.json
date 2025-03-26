@@ -6,10 +6,12 @@
 
 "lives":[
 {"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15","playerType":2,"timeout":10},
-{"name":"【网络收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","playerType":2,"timeout":10},
-{"name":"【国内分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15"},
-{"name":"【胖羊直播】","type":3,"api":"csp_Feiyang","url":"./jar/胖羊.php","timeout":10,"ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
-{"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1,"ua":"okhttp/3.15"}
+{"name":"【欧歌收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
+{"name":"【天微MTV】","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt","playerType":2,"ua":"okhttp/5.0.0-alpha.14"},
+{"name":"【天微②路】","type":0,"url":"http://rihou.cc:567/gggg.nzk","playerType":2,"ua":"okhttp/3"},
+{"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","playerType":1,"ua":"okhttp/3.15"},
+{"name":"【PG最强直播】","type":3,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+{"name":"【欧歌胖羊】","type":3,"api":"csp_Feiyang","url":"https://xn--dkw0c.v.nxog.top/m//tv/胖羊.php","timeout":10,"ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}}
 
 ],
 
@@ -84,7 +86,9 @@
 {"name":"聚合","type":3,"url":"Demo"},
 {"name":"web","type":3,"url":"Web"},
 {"name":"巧技1️⃣","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent":"okhttp/4.9.1"}}},
-{"name":"巧技2️⃣","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}}
+{"name":"巧技2️⃣","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":
+
+{"User-Agent":"okhttp/4.9.1"}}}
 
 ],
 
