@@ -978,7 +978,8 @@ CCTV-3综艺,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cct
 CCTV-4中文国际,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv4.m3u8
 CCTV-5体育,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv5.m3u8
 CCTV-5+体育赛事,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv5p.m3u8
-CCTV-6电影,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000001000001737.m3u8?cdn=ystenlive
+CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-6电影,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv6.m3u8
 CCTV-7国防军事,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv7.m3u8
 CCTV-8电视剧,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv8.m3u8
 CCTV-9纪录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv9.m3u8
@@ -988,11 +989,11 @@ CCTV-12社会与法,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ga
 CCTV-13新闻,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv13.m3u8
 CCTV-14少儿,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv14.m3u8
 CCTV-15音乐,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv15.m3u8
-CCTV-16奥林匹克,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
+CCTV-16奥林匹克,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv16.m3u8
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv17.m3u8
 CCTV4K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv4k_10m.m3u8
 CCTV8K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
-CGTN,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnen.m3u8
+CGTN英语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnen.m3u8
 CGTN纪录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtndoc.m3u8
 CGTN阿拉伯语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnar.m3u8
 CGTN法语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnfr.m3u8
@@ -1526,12 +1527,6 @@ SiTV游戏风云,http://127.0.0.1:35345/itv/5000000011000031114.m3u8?cdn=bestzb
 中国天气,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000005000031974.m3u8?cdn=bestzb
 中华美食,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000266015.m3u8?cdn=ystenlive
 
-CCTV-16奥林匹克4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k16.m3u8
-CCTV-16奥林匹克4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k16_10m.m3u8
-CCTV-16奥林匹克4K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
-CCTV4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k.m3u8
-CCTV4K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k_10m.m3u8
-CCTV8K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
 纯享4K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000004000011651.m3u8?cdn=ystenlive
 华数4K,http://127.0.0.1:10079/av3am3u/2/null/http://127.0.0.1:35456/itv/6000000003000004748.m3u8?cdn=wasusyt
 咪咕4K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/3000000010000005180.m3u8?cdn=FifastbLive
