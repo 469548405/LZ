@@ -76,7 +76,6 @@ CCTV8K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv8k_36
 CCTV8K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv8k_36m.m3u8
 CCTV-16奥林匹克4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k16.m3u8
 CCTV-16奥林匹克4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/gaoma/cctv4k16_10m.m3u8
-CCTV-16奥林匹克4K,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000008000023254.m3u8?cdn=bestzb
 CGTN-英语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnen.m3u8
 CGTN-纪录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtndoc.m3u8
 CGTN-阿拉伯语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnar.m3u8
@@ -93,9 +92,13 @@ CGTN-英语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/774512
 北京IPTV淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
-凤凰中文AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-凤凰资讯AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-凤凰香港AKtv,http://aktv_stream1.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 安多卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000266001.m3u8?cdn=ystenlive
 安徽卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000001000030159.m3u8?cdn=ystenlive
 安徽卫视,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/1000000005000265025.m3u8?cdn=ystenlive
