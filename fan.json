@@ -8,7 +8,10 @@
 {"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15","playerType":2,"timeout":10},
 {"name":"【欧歌收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
 {"name":"【天微②路】","type":0,"url":"http://rihou.cc:567/gggg.nzk","playerType":2,"ua":"okhttp/3"},
-{"name":"【BIPTV-IPV6】","type":0,"url":"./lib/biptv.txt","ua":"okhttp/3.15"}
+{"name":"【BIPTV-IPV6】","type":0,"url":"./lib/biptv.txt","ua":"okhttp/3.15"},
+{"name":"【Kilvn-iptv】","type":0,"url":"https://live.kilvn.com/iptv.m3u","ua":"okhttp/3.15"},
+{"name":"【vbsky-v4】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt","ua":"okhttp/3.15"},
+{"name":"【vbsky-v6】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt","ua":"okhttp/3.15"}
 
 ],
 
