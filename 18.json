@@ -10,7 +10,10 @@
 
 
 "sites":[
-{"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"http://www.fish2018.ip-ddns.com/p/lib/live2vod.js","ext":"https://slink.ltd/raw.githubusercontent.com/fish2018/lib/main/json/feimaolive.json"},
+{"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"./lib/live2vod.js","ext":"https://slink.ltd/raw.githubusercontent.com/fish2018/lib/main/json/feimaolive.json"},
+
+{"key":"XMVideo","name":"🔞熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1},
+{"key":"KpgxdyE","name":"🔞导航|9m9m.top","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"155专场","name":"🔞155采集","type":1,"api":"https://155api.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"categories":["无码专区","麻豆传媒","制服诱惑","三级伦理","AI换脸","中文字幕","卡通动漫","欧美系列","美女主播","国产自拍","熟女人妻","萝莉少女","女同性爱","多人群交","美乳巨乳","强奸乱伦","抖音视频","韩国主播","网红头条","网爆黑料","欧美无码","女优明星","SM调教","AV解说"]},
 {"key":"色播","name":"🔞色播直播","type":3,"api":"https://slink.ltd/raw.githubusercontent.com/guot55/yg/main/h/色播.js","searchable":1,"changeable":0},
