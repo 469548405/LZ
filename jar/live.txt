@@ -5,7 +5,7 @@ CCTV-3综艺,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cct
 CCTV-4中文国际,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv4.m3u8
 CCTV-5体育,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv5.m3u8
 CCTV-5+体育赛事,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv5p.m3u8
-CCTV-6电影,http://b.zgjok.com:35455/gaoma/cctv6.m3u8
+CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7国防军事,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv7.m3u8
 CCTV-8电视剧,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv8.m3u8
 CCTV-9纪录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv9.m3u8
@@ -15,7 +15,7 @@ CCTV-12社会与法,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/ga
 CCTV-13新闻,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv13.m3u8
 CCTV-14少儿,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv14.m3u8
 CCTV-15音乐,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv15.m3u8
-CCTV-16奥林匹克,http://b.zgjok.com:35455/gaoma/cctv16.m3u8
+CCTV-16奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-17农业农村,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv17.m3u8
 CGTN-英语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnen.m3u8
 CGTN-纪录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtndoc.m3u8
