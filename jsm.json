@@ -1,17 +1,18 @@
 ﻿{
 
-"spider":"./pg.jar;md5;e6781b166312def229c8f2b24836cae9",
+"spider":"./pg.jar;md5;3e53bacc14f103ff6689a0a6df9032a3",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15","playerType":2},
+{"name":"【Tianmu】","type":"0","pass":true,"url":"https://slink.ltd/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt"},
 {"name":"【vbsky-v4】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u","ua":"okhttp/3.15"},
 {"name":"【欧歌收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","ua":"okhttp/3.15"},
 {"name":"【天微②路】","type":0,"url":"http://rihou.cc:567/gggg.nzk","playerType":2,"ua":"okhttp/3"},
 {"name":"【BIPTV-IPV6】","type":0,"url":"./lib/biptv.txt","ua":"okhttp/3.15"},
-{"name":"【PG直播分类】","type":3,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
-{"name":"【PG直播合并】","type":3,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
+{"name":"【PG直播分类】","type":3,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15","playerType":2},
+{"name":"【PG直播合并】","type":3,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15","playerType":2},
 {"name":"【Kilvn-iptv】","type":0,"url":"https://live.kilvn.com/iptv.m3u","ua":"okhttp/3.15"},
 {"name":"【王二小BJTV】","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742130501942/bjtv.txt","playerType":1},
 {"name":"【王二小钵钵鸡】","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u","playerType":1},
@@ -81,7 +82,7 @@
 
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./jar/market.json"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":30,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;e6781b166312def229c8f2b24836cae9"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":30,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;3e53bacc14f103ff6689a0a6df9032a3"}
 
 ],
 

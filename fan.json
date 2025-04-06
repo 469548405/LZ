@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15","playerType":2},
 {"name":"【vbsky-v4】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u","ua":"okhttp/3.15"},
 {"name":"【欧歌收集】","type":0,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","ua":"okhttp/3.15"},
 {"name":"【天微②路】","type":0,"url":"http://rihou.cc:567/gggg.nzk","playerType":2,"ua":"okhttp/3"},
