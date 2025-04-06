@@ -5,7 +5,8 @@ CCTV-3综艺,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cct
 CCTV-4中文国际,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv4.m3u8
 CCTV-5体育,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv5.m3u8
 CCTV-5+体育赛事,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv5p.m3u8
-CCTV-6电影,http://wuwenxidong.work:2333/udp/225.1.8.84:8000
+CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-6电影,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv6.m3u8
 CCTV-7国防军事,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv7.m3u8
 CCTV-8电视剧,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv8.m3u8
 CCTV-9纪录,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv9.m3u8
@@ -25,6 +26,26 @@ CGTN-俄语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtn
 CGTN-西班牙语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cgtnsp.m3u8
 
 
+CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4中文国际美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV-4中文国际欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9纪录,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10科教,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11戏曲,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12社会与法,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13新闻,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 CCTV-1综合,http://wuwenxidong.work:2333/udp/225.1.8.1:8008
 CCTV-2财经,http://wuwenxidong.work:2333/udp/225.1.8.2:8084
@@ -151,6 +172,8 @@ CCTV-17农业农村,http://www.flyskyman.cn:4022/udp/233.50.200.113:5140
 
 📺卫视频道组播👉,#genre#
 
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC动作影院,http://z.b.bkpcp.top/m.php?id=dzdy
 淘精彩,http://wuwenxidong.work:2333/udp/225.1.8.33:8002
 淘BABY,http://wuwenxidong.work:2333/udp/225.1.8.36:8002
 淘剧场,http://wuwenxidong.work:2333/udp/225.1.8.37:8002
@@ -172,6 +195,23 @@ CCTV-17农业农村,http://www.flyskyman.cn:4022/udp/233.50.200.113:5140
 凤凰中文,http://www.flyskyman.cn:4022/udp/233.50.200.191:5140
 凤凰资讯,http://www.flyskyman.cn:4022/udp/233.50.200.192:5140
 凤凰资讯,http://www.flyskyman.cn:4022/udp/233.50.200.192:5140
+
+
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
+贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
+海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
+吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
+青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 
 
 安徽卫视,http://wuwenxidong.work:2333/udp/225.1.8.52:8064
@@ -336,7 +376,7 @@ CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-东方影视,http://z.b.bkpcp.top/m.php?id=shys
+CHC动作影院,http://z.b.bkpcp.top/m.php?id=dzdy
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
 江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
@@ -344,27 +384,15 @@ CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
 东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
-甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
-广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
 海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
-河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
 吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
-辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
-内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
-宁夏卫视,http://z.b.bkpcp.top/m.php?id=nxws
 青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
-山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
-云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
-新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
-湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
-四川卫视,http://z.b.bkpcp.top/m.php?id=scws
+
 
 
 📺四川电信👉,#genre#
