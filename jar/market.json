@@ -8,6 +8,12 @@
 
 {"name":"影视正式版","list":[
 
+{"name":"电视-arm","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-armeabi_v7a.apk
+","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
+
+{"name":"电视-arm","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-arm64_v8a.apk
+","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
+
 {"name":"电视-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
 {"name":"电视-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-java-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
@@ -16,13 +22,27 @@
 
 {"name":"电视-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
 
+
+{"name":"手机-arm","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
+
+{"name":"手机-arm","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
+
+
 {"name":"手机-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
 {"name":"手机-java","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-java-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
 
 {"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/raw/fongmi/apk/release/mobile-python-armeabi_v7a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v7a"},
 
-{"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"}]},
+{"name":"手机-py","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/mobile-python-arm64_v8a.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
+
+{"name":"海信专版","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/海信专版.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
+
+{"name":"电视版-X5离线.apk","url":"https://slink.ltd/raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/电视版-X5离线.apk","icon":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/fm.png","version":"v8a"},
+
+]
+
+},
 
 
 {"name":"影视4.X版","list":[
