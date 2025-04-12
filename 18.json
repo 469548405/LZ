@@ -104,8 +104,6 @@
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 
-"headers":
-[{"host":"gslbserv.itv.cmvideo.cn","header":{"User-Agent":"okhttp/3.12.13"}}],
 
 "proxy":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"],
 
