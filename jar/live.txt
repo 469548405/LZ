@@ -31,63 +31,32 @@ CGTN-西班牙语,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaom
 
 
 📺卫视频道👉,#genre#
+凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
-重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
 
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+重温经典,https://cdn6.163189.xyz/live/cwjd/stream.m3u8
 
 
 
 
 CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-
-
-安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws
-北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
-大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
-东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
-甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
-广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
-广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
-贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
-海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
-河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
-河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
-黑龙江卫视,http://z.b.bkpcp.top/m.php?id=hljws
-湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
-湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
-吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
-江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
-辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
-内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
-宁夏卫视,http://z.b.bkpcp.top/m.php?id=nxws
-青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
-青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
-山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
-陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
-深圳卫视,http://z.b.bkpcp.top/m.php?id=szws
-四川卫视,http://z.b.bkpcp.top/m.php?id=scws
-西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
-新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
-云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
-浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
-浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
-重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 
 
 
@@ -261,6 +230,43 @@ CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 上海哈哈炫动,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000011000031123.m3u8?cdn=bestzb
 上海五星体育,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000010000017540.m3u8?cdn=bestzb
 上海新闻综合,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/itv/5000000011000031110.m3u8?cdn=bestzb
+
+
+安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws
+北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+东方卫视,http://z.b.bkpcp.top/m.php?id=dfws
+东南卫视,http://z.b.bkpcp.top/m.php?id=dnws
+甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
+贵州卫视,http://z.b.bkpcp.top/m.php?id=gzws
+海南卫视,http://z.b.bkpcp.top/m.php?id=hinws
+河北卫视,http://z.b.bkpcp.top/m.php?id=hbws
+河南卫视,http://z.b.bkpcp.top/m.php?id=hnws
+黑龙江卫视,http://z.b.bkpcp.top/m.php?id=hljws
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+湖南卫视,http://z.b.bkpcp.top/m.php?id=hunws
+吉林卫视,http://z.b.bkpcp.top/m.php?id=jlws
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
+辽宁卫视,http://z.b.bkpcp.top/m.php?id=lnws
+内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
+宁夏卫视,http://z.b.bkpcp.top/m.php?id=nxws
+青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
+青海卫视,http://z.b.bkpcp.top/m.php?id=qhws
+山东卫视,http://z.b.bkpcp.top/m.php?id=sdws
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+深圳卫视,http://z.b.bkpcp.top/m.php?id=szws
+四川卫视,http://z.b.bkpcp.top/m.php?id=scws
+西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
+新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
+云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
+浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
+重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
+
+
 
 
 📺咪咕视频👉,#genre#
