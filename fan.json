@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":1,"url":"./jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":1,"url":"https://gitee.com/RS818/LZ/raw/master/jar/live.txt","ua":"okhttp/3.15"},
 {"name":"【IPv4 直播源】","type":1,"url":"https://live.hacks.tools/tv/iptv4.txt","ua":"okhttp/3.15"},
 {"name":"【IPv6 直播源】","type":1,"url":"https://live.hacks.tools/tv/iptv6.txt","ua":"okhttp/3.15"},
 {"name":"【V4聚合】","type":1,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15"},
@@ -14,13 +14,13 @@
 {"name":"【vbsky-v4】","type":1,"url":"https://slink.ltd/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u","ua":"okhttp/3.15"},
 {"name":"【欧歌收集】","type":1,"url":"https://xn--dkw0c.v.nxog.top/m//tv/","ua":"okhttp/3.15"},
 {"name":"【天微②路】","type":1,"url":"http://rihou.cc:567/gggg.nzk","ua":"okhttp/3.15"},
-{"name":"【BIPTV-IPV6】","type":1,"url":"./lib/biptv.txt","ua":"okhttp/3.15"},
 {"name":"【Kilvn-iptv】","type":1,"url":"https://live.kilvn.com/iptv.m3u","ua":"okhttp/3.15"},
 {"name":"【王二小BJTV】","type":1,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742130501942/bjtv.txt","ua":"okhttp/3.15"},
 {"name":"【王二小钵钵鸡】","type":1,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u","ua":"okhttp/3.15"},
 {"name":"【Guovin】","type":1,"url":"https://slink.ltd/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
 {"name":"【APTV】","type":1,"url":"https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u","ua":"okhttp/3.15"},
 {"name":"【肥猫live】","type":1,"url":"https://6296.kstore.vip/25.txt","ua":"okhttp/3.15"}
+
 
 
 "sites":[
