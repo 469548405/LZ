@@ -3,8 +3,8 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "lives":[
-{"name":"【电视直播】","type":1,"url":"./jar/18.txt","playerType":1},
-{"name":"【欧美传媒】","type":1,"url":"./jar/18md.txt","playerType":1}
+{"name":"【电视直播】","type":0,"url":"./jar/18.txt","playerType":1},
+{"name":"【欧美传媒】","type":0,"url":"./jar/18md.txt","playerType":1}
 
 ],
 
@@ -105,7 +105,7 @@
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
 
 
-"proxy":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"],
+"proxy":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*","missav.ws","javmulu.net","www.netflav.com","stream-link.org","hinet.net","koyeb.app"],
 
 
 "hosts":[
@@ -118,7 +118,7 @@
 ],
 
 "rules":[
-{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*","missav.ws","javmulu.net","www.netflav.com","stream-link.org","hinet.net","koyeb.app"]},
+{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*","missav.ws","javmulu.net","www.netflav.com","stream-link.org","hinet.net","koyeb.app"]},
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
 {"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
