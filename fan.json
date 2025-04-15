@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":1,"url":"https://gitee.com/RS818/LZ/raw/master/jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":1,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15"},
 {"name":"【IPv4 直播源】","type":1,"url":"https://live.hacks.tools/tv/iptv4.txt","ua":"okhttp/3.15"},
 {"name":"【IPv6 直播源】","type":1,"url":"https://live.hacks.tools/tv/iptv6.txt","ua":"okhttp/3.15"},
 {"name":"【V4聚合】","type":1,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15"},
@@ -107,7 +107,7 @@
 
 
 
-"proxy":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"],
+"proxy":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*","missav.ws","javmulu.net","www.netflav.com","stream-link.org","hinet.net","koyeb.app"],
 
 
 "hosts":[
@@ -120,7 +120,7 @@
 ],
 
 "rules":[
-{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*","missav.ws","javmulu.net","www.netflav.com","stream-link.org","hinet.net","koyeb.app"]},
+{"name":"proxy","hosts":["raw.githubusercontent.com","googlevideo.com","googleapis.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*","*.t4tv.hz.cz",".*ulivetv.*","missav.ws","javmulu.net","www.netflav.com","stream-link.org","hinet.net","koyeb.app"]},
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
 {"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
