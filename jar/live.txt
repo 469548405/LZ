@@ -44,7 +44,6 @@ CCTV-4中文国际欧洲,http://goo.bkpcp.top/mg/cctv4o
 CCTV-5体育,http://goo.bkpcp.top/mg/cctv5
 CCTV-5+体育赛事,http://goo.bkpcp.top/mg/cctv5p
 CCTV-6电影,http://goo.bkpcp.top/mg/cctv6
-CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7国防军事,http://goo.bkpcp.top/mg/cctv7
 CCTV-8电视剧,http://goo.bkpcp.top/mg/cctv8
 CCTV-9纪录,http://goo.bkpcp.top/mg/cctv9
@@ -65,7 +64,6 @@ CCTV-4中文国际美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
 CCTV-4中文国际欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7
 CCTV-8电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
@@ -107,6 +105,9 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+
+CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
+CHC动作影院,http://z.b.bkpcp.top/m.php?id=dzdy
 
 安徽卫视,http://goo.bkpcp.top/mg/ahws
 安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws
@@ -347,10 +348,14 @@ CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 
 
 📺咪咕视频👉,#genre#
+
+
 CCTV-1综合,http://goo.bkpcp.top/mg/cctv1
 CCTV-2财经,http://goo.bkpcp.top/mg/cctv2
 CCTV-3综艺,http://goo.bkpcp.top/mg/cctv3
 CCTV-4中文国际,http://goo.bkpcp.top/mg/cctv4
+CCTV-4中文国际美洲,http://goo.bkpcp.top/mg/cctv4m
+CCTV-4中文国际欧洲,http://goo.bkpcp.top/mg/cctv4o
 CCTV-5体育,http://goo.bkpcp.top/mg/cctv5
 CCTV-5+体育赛事,http://goo.bkpcp.top/mg/cctv5p
 CCTV-6电影,http://goo.bkpcp.top/mg/cctv6
@@ -366,19 +371,12 @@ CCTV-15音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV-16奥林匹克,http://goo.bkpcp.top/mg/cctv16
 CCTV-17农业农村,http://goo.bkpcp.top/mg/cctv17
 
-CCTV-4中文国际美洲,http://goo.bkpcp.top/mg/cctv4m
-CCTV-4中文国际欧洲,http://goo.bkpcp.top/mg/cctv4o
-CCTV-4中文国际美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
-CCTV-4中文国际欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
-CHC动作影院,http://goo.bkpcp.top/mg/dzdy
-
-
-
 CCTV-1综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-4中文国际,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4中文国际美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV-4中文国际欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
 CCTV-5体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5+体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p
 CCTV-6电影,http://z.b.bkpcp.top/m.php?id=cctv6
@@ -393,6 +391,8 @@ CCTV-14少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
+
+
 
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
 CHC动作影院,http://z.b.bkpcp.top/m.php?id=dzdy
