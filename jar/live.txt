@@ -21,11 +21,11 @@ CCTV-15音乐,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16奥林匹克,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-17农业农村,http://z.b.bkpcp.top/m.php?id=cctv17
 
-CGTN纪录,http://z.b.bkpcp.top/m.php?id=cgtnjl
-CGTN西语,http://z.b.bkpcp.top/m.php?id=cgtne
-CGTN阿语,http://z.b.bkpcp.top/m.php?id=cgtna
-CGTN法语,http://z.b.bkpcp.top/m.php?id=cgtnf
-CGTN俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
+CGTN-纪录,http://z.b.bkpcp.top/m.php?id=cgtnjl
+CGTN-西班牙语,http://z.b.bkpcp.top/m.php?id=cgtne
+CGTN-阿拉伯语,http://z.b.bkpcp.top/m.php?id=cgtna
+CGTN-法语,http://z.b.bkpcp.top/m.php?id=cgtnf
+CGTN-俄语,http://z.b.bkpcp.top/m.php?id=cgtnr
 
 CCTV-1综合,http://goo.bkpcp.top/mg/cctv1
 CCTV-2财经,http://goo.bkpcp.top/mg/cctv2
@@ -48,11 +48,13 @@ CCTV-15音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV-16奥林匹克,http://goo.bkpcp.top/mg/cctv16
 CCTV-17农业农村,http://goo.bkpcp.top/mg/cctv17
 
-CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
-CGTN西语,http://goo.bkpcp.top/mg/cgtne
-CGTN阿语,http://goo.bkpcp.top/mg/cgtna
-CGTN法语,http://goo.bkpcp.top/mg/cgtnf
-CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
+CGTN-纪录,http://goo.bkpcp.top/mg/cgtnjl
+CGTN-西班牙语,http://goo.bkpcp.top/mg/cgtne
+CGTN-阿拉伯语,http://goo.bkpcp.top/mg/cgtna
+CGTN-法语,http://goo.bkpcp.top/mg/cgtnf
+CGTN-俄语,http://goo.bkpcp.top/mg/cgtnr
+
+
 
 CCTV-1综合,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv1.m3u8
 CCTV-2财经,http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/gaoma/cctv2.m3u8
