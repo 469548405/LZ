@@ -1,5 +1,5 @@
 ﻿{
-
+https://slink.ltd/raw.githubusercontent.com/fish2018/p/main/lib/115share.txt
 "spider":"http://www.fish2018.ip-ddns.com/p/pg.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -9,8 +9,7 @@
 {"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15"},
 {"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
-{"name":"【IPv4直播源1】","type":0,"url":"https://live.hacks.tools/tv/iptv4.txt","ua":"okhttp/3.15"},
-{"name":"【IPv4直播源2】","type":0,"url":"https://live.izbds.com/tv/iptv4.txt","ua":"okhttp/3.15"},
+{"name":"【IPv4直播源】","type":0,"url":"https://live.izbds.com/tv/iptv4.txt","ua":"okhttp/3.15"},
 {"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15"},
 {"name":"【AI直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","ua":"okhttp/3.15"},
 {"name":"【Tianmu】","type":1,"pass":true,"url":"https://slink.ltd/raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt","ua":"okhttp/3.15"},
@@ -53,7 +52,6 @@
 {"key":"Dygang","name":"电影港[边下边播]","type":3,"api":"csp_Dygang","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
 {"key":"Lib","name":"Lib┃直连","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jhi558k84lhg7845kili62l35535512l0h61j48410h9g5igk9j40908h351hh484h8l60h","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃无搜索","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
-{"key":"快看","name":"快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
 {"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
 {"key":"ZXZJ","name":"在线┃直连","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
 {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jh346968hg5ll845ki38473","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
@@ -62,8 +60,8 @@
 
 
 {"key":"Guazi","name":"瓜子|App","type":3,"api":"csp_Guazi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":""},
+{"key":"快看","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":0,"filterable":1},
 {"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://www.fish2018.ip-ddns.com/p/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$http://www.fish2018.ip-ddns.com/p/lib/panta.txt$$$PANTA","style":{"type":"list","ratio":1.1}},
-{"key":"bili","name":"B站|Bili[jar]","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"ext":{"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云","cookie":""}},
 
 {"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"http://www.fish2018.ip-ddns.com/p/lib/live2vod.js","ext":"http://www.fish2018.ip-ddns.com/p/lib/feimaolive.json"},
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
