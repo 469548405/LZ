@@ -1,13 +1,19 @@
 ﻿{
 
-"spider":"./pg.jar;md5;afda4f34509f1b5fe74c07241a5c4f58",
+"spider":"./pg.jar;md5;73b5c1ce29891bd3ca9c6b2a61467327",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15"},
+{"name":"【定制节目】","type":0,"url":"https://gitee.com/RS818/LZ/raw/master/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2},
 {"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
+{"name":"LiSha521.TV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1},
+{"name":"LiSha521.IPTV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/iptv.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2},
+{"name":"LiSha521.HLJ","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/hlj.txt","ua":"okhttp/3.15"},
+{"name":"LiSha521.LIVE","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/live.txt","playerType":1,"ua":"okhttp/3.15"},
+{"name":"LiSha521.LIVE1","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://lisha521.dynv6.net.fh4u.org/live1.txt","playerType":2,"ua":"okhttp/3.15"},
+{"name":"GGGG","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":1,"ua":"okhttp/3.15"},
 {"name":"【IPv4直播源】","type":0,"url":"https://live.izbds.com/tv/iptv4.txt","ua":"okhttp/3.15"},
 {"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15"},
 {"name":"【AI直播】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","ua":"okhttp/3.15"},
@@ -72,7 +78,7 @@
 "style":{"type":"list","ratio":1.1}},
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./jar/market.json"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;afda4f34509f1b5fe74c07241a5c4f58"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;73b5c1ce29891bd3ca9c6b2a61467327"}
 
 ],
 
