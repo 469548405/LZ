@@ -1,4 +1,4 @@
-📺央视-ITV👉,#genre#
+﻿📺央视-ITV👉,#genre#
 CCTV1综合,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1综合,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNDVFYx.mp4
 CCTV2财经,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
