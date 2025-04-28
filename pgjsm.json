@@ -6,7 +6,7 @@ https://slink.ltd/raw.githubusercontent.com/fish2018/p/main/lib/115share.txt
 
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://gitee.com/RS818/LZ/raw/master/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2},
+{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2},
 {"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"LiSha521.TV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1},
