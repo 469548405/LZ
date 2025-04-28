@@ -1,4 +1,4 @@
-﻿📺央视-ITV👉,#genre#
+📺央视-ITV👉,#genre#
 CCTV1综合,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1综合,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNDVFYx.mp4
 CCTV2财经,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
@@ -35,19 +35,19 @@ CCTV16奥林匹克,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV16奥林匹克,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNDVFYxNg.mp4
 CCTV17农业农村,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 CCTV17农业农村,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNDVFYxNw.mp4
-CETV-1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
-CETV-1,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNFVFYx.mp4
-CETV-2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
-CETV-2,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNFVFYy.mp4
-CETV-4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
-CETV-4,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNFVFY0.mp4
+CETV1,http://itv.iptv1688.top:2016/itv.php?id=CETV1
+CETV1,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNFVFYx.mp4
+CETV2,http://itv.iptv1688.top:2016/itv.php?id=CETV2
+CETV2,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNFVFYy.mp4
+CETV4,http://itv.iptv1688.top:2016/itv.php?id=CETV4
+CETV4,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNFVFY0.mp4
 
-CGTN-英语,https://0472.org/hls/cgtn.m3u8
-CGTN-俄语,https://0472.org/hls/cgtne.m3u8
-CGTN-法语,https://0472.org/hls/cgtnf.m3u8
-CGTN-纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN-西班牙语,https://0472.org/hls/cgtnx.m3u8
-CGTN-阿拉伯语,https://0472.org/hls/cgtna.m3u8
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 
 
 📺卫视-ITV👉,#genre#
@@ -367,11 +367,11 @@ CCTV15音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16
 CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
-CGTN-纪录,http://goo.bkpcp.top/mg/cgtnjl
-CGTN-西班牙语,http://goo.bkpcp.top/mg/cgtne
-CGTN-阿拉伯语,http://goo.bkpcp.top/mg/cgtna
-CGTN-法语,http://goo.bkpcp.top/mg/cgtnf
-CGTN-俄语,http://goo.bkpcp.top/mg/cgtnr
+CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
+CGTN西班牙语,http://goo.bkpcp.top/mg/cgtne
+CGTN阿拉伯语,http://goo.bkpcp.top/mg/cgtna
+CGTN法语,http://goo.bkpcp.top/mg/cgtnf
+CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
 
 
 CGTN英语,https://0472.org/hls/cgtn.m3u8
