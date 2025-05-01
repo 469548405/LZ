@@ -1,5 +1,6 @@
 ﻿📺港-澳-台👉,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
@@ -9,6 +10,7 @@
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
@@ -17,6 +19,7 @@
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -27,16 +30,20 @@
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://cdn6.163189.xyz/live/cwjd/stream.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 澳门Mac,http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门Mac,http://cdn.132.us.kg/live/as/stream.m3u8
 澳视澳门,http://cdn.132.us.kg/live/asam/stream.m3u8
+澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+
 好莱坞电影,http://live4play.uk/livehttpplay?channel_id=20062
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
@@ -55,7 +62,6 @@
 Amc电影,http://live4play.uk/livehttpplay?channel_id=12036
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 BBC地球,http://live4play.uk/livehttpplay?channel_id=20044
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 Fgm电影,http://live4play.uk/livehttpplay?channel_id=10123
 HBo电影贰,http://live4play.uk/livehttpplay?channel_id=20092
 HBo电影叁,http://live4play.uk/livehttpplay?channel_id=20093
@@ -97,34 +103,17 @@ VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 八大精彩,http://live4play.uk/livehttpplay?channel_id=20052
 八大娱乐,http://live4play.uk/livehttpplay?channel_id=20071
 八大综合,http://live4play.uk/livehttpplay?channel_id=20068
-博斯运动,http://live4play.uk/livehttpplay?channel_id=10131
-东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
-东森财经,http://live4play.uk/livehttpplay?channel_id=20078
 东森电影,http://live4play.uk/livehttpplay?channel_id=20077
-东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
 东森新闻,http://live4play.uk/livehttpplay?channel_id=20082
 东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
-动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034
-广东4K超高清,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gd4k
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-国家地理,http://live4play.uk/livehttpplay?channel_id=20037
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-江西教育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
 今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
-金色学堂,http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
 靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
 龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
 龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-闽壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
+壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
 三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
@@ -133,41 +122,18 @@ VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
 纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
-文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-无线生活,http://v2h.jdshipin.com/finance2/finance2.stream/chunklist.m3u8
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-无线直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8
-武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
-新视觉,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
-湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
-湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
-湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
-湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南都市,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
-湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
-西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 
 📺央视-ITV👉,#genre#
 CCTV1综合,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
@@ -222,6 +188,7 @@ CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 
 
 📺卫视-ITV👉,#genre#
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxym3u/aHR0cHM6Ly9nZGN1Y2MudjEubWsvZ2RjdWNjL2N3amQubTN1OA.m3u8
 CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
