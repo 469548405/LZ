@@ -736,11 +736,11 @@ CHANNEL-V,http://zhaomeng.ddns.net:4000/udp/239.93.1.7:2194
 四川乡村,http://zhaomeng.ddns.net:4000/udp/239.93.1.178:5140
 四川乡村,http://zhaomeng.ddns.net:4000/udp/239.93.0.94:5140
 四川影视文艺,http://zhaomeng.ddns.net:4000/udp/239.93.0.166:5140
-四川妇女儿童,http://zhaomeng.ddns.net:4000/udp/239.93.0.219:5140
 四川科教,http://zhaomeng.ddns.net:4000/udp/239.93.42.44:5140
 四川文化旅游,http://zhaomeng.ddns.net:4000/udp/239.93.1.190:5140
 四川文化旅游,http://zhaomeng.ddns.net:4000/udp/239.93.1.189:5140
 四川文化旅游,http://zhaomeng.ddns.net:4000/udp/239.93.0.214:5140
+SCTV-7,http://zhaomeng.ddns.net:4000/udp/239.93.0.219:5140
 四川星空购物,http://zhaomeng.ddns.net:4000/udp/239.93.1.144:5140
 
 
@@ -961,11 +961,11 @@ CHANNEL-V,http://wouu.net:9977/udp/239.93.1.7:2194
 四川乡村,http://wouu.net:9977/udp/239.93.1.178:5140
 四川乡村,http://wouu.net:9977/udp/239.93.0.94:5140
 四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
-四川妇女儿童,http://wouu.net:9977/udp/239.93.0.219:5140
 四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 四川文化旅游,http://wouu.net:9977/udp/239.93.1.190:5140
 四川文化旅游,http://wouu.net:9977/udp/239.93.1.189:5140
 四川文化旅游,http://wouu.net:9977/udp/239.93.0.214:5140
+SCTV-7,http://wouu.net:9977/udp/239.93.0.219:5140
 四川星空购物,http://wouu.net:9977/udp/239.93.1.144:5140
 
 
