@@ -5,7 +5,7 @@
 
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"LiSha521.TV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1},
@@ -28,15 +28,13 @@
 {"name":"【APTV】","type":0,"url":"https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u","ua":"okhttp/3.15"},
 {"name":"【肥猫live】","type":0,"url":"https://6296.kstore.vip/25.txt","ua":"okhttp/3.15"}
 
-
 ],
 
 
 "sites":[
 {"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"http://www.fish2018.ip-ddns.com/p/lib/tokenm.json$$$http://www.fish2018.ip-ddns.com/p/lib/douban.json"},
 
-
-{"key":"天天","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg09397919456493i0h44j8681highi4","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
+{"key":"天天┃App","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg09397919456493i0h44j8681highi4","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"csp_xlys","name":"修罗┃无搜索","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"热播","name":"热播┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg0939791h1l3888jig44gi291li","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg0939791h1l2681i6g94li291li","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
