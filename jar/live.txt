@@ -110,7 +110,6 @@ VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
-三立戏剧,http://live4play.uk/livehttpplay?channel_id=10125
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 台视,http://live4play.uk/livehttpplay?channel_id=20076
 天映电影,http://live4play.uk/livehttpplay?channel_id=10130
@@ -468,8 +467,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 📺咪咕-卫视👉,#genre#
 CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
-CHC动作电影,http://goo.bkpcp.top/mg/dzdy
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 
@@ -477,6 +474,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
+西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 
 四川卫视,http://148.135.93.213/live.php?id=四川卫视
 北京卫视,http://148.135.93.213/live.php?id=北京卫视
@@ -545,59 +545,65 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 重庆卫视,http://z.b.bkpcp.top/m.php?id=cqws
 
 
-西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
-西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 
 📺四川-频道👉,#genre#
-
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8
+巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
+达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
 达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
 达州新闻,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
-达州文化生活,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
-
-
-甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
 广安文旅乡村,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
 广元文化生活,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+夹江新闻综合,http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8?zsicd
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+金川乡村,http://139.203.180.9:90/live/jcxc.m3u8
+金川乡村,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;
+金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+金川乡村,https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.m3u8
 金川新闻综合,http://139.203.180.9:90/live/zhxw.m3u8
+金川新闻综合,http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+井研综合,http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
 康定新闻综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
+乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
+乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
+凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
+凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
+龙泉新闻,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?
+龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+马尔康综合,https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8
+眉山青神综合,http://lmt.scqstv.com/live1/live1.m3u8
+名山综合,https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+名山综合,https://m3u8channel-ms.yunxya.com:443/nmip-media/audiolive/audio100580/playlist.m3u8
+沐川综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+沐川综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
+沐川综合,https://m3u8channel-sm.yunxya.com/nmip-media/channellive/channel100420/playlist.m3u8
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
+青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 沙湾综合,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
+什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
 什邡新闻综合,http://live.sfrmt.com:85/live/zhpd.m3u8
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8
+松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
+万盛新闻综合,http://stream0.tv41.ru/live.m3u8
+万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
+万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8.m3u8
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
+汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
-长宁综合,http://cnpull.sccnfb.com/live/123456.m3u8
 长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
 自贡公共,http://110.189.153.160:1002/ggpd.flv
 自贡综合,http://110.189.153.160:1001/zhpd.flv
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
-什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
-凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
-凉山语,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8?zsicd
-巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
-万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
-万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-万州综合,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8.m3u8
-达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
-重庆璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
-万盛新闻综合,http://stream0.tv41.ru/live.m3u8
-
-四川乐山市峨眉山风景区,https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8
-四川成都安顺廊桥,https://gctxyc.liveplay.myqcloud.com/gc/zsslsjjfsd_1/index.m3u8
 
 
 
