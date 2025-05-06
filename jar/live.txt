@@ -5,8 +5,6 @@
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -14,8 +12,6 @@
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -23,7 +19,6 @@
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -37,7 +32,6 @@
 澳视澳门,http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 
-好莱坞电影,http://live4play.uk/livehttpplay?channel_id=20062
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -50,18 +44,10 @@
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 
-
-Amc电影,http://live4play.uk/livehttpplay?channel_id=12036
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-BBC地球,http://live4play.uk/livehttpplay?channel_id=20044
-Fgm电影,http://live4play.uk/livehttpplay?channel_id=10123
-HBo电影壹,http://live4play.uk/livehttpplay?channel_id=20091
-HBo电影贰,http://live4play.uk/livehttpplay?channel_id=20092
-HBo电影叁,http://live4play.uk/livehttpplay?channel_id=20093
 HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
 RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
@@ -73,9 +59,6 @@ TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Jade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-Tvbs欢乐台,http://live4play.uk/livehttpplay?channel_id=20105
-Tvbs精彩台,http://live4play.uk/livehttpplay?channel_id=20136
-Tvbs LIVE,http://live4play.uk/livehttpplay?channel_id=20085
 TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
@@ -88,27 +71,10 @@ VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-八大第一台,http://live4play.uk/livehttpplay?channel_id=20073
-八大娱乐台,http://live4play.uk/livehttpplay?channel_id=20071
-八大综合台,http://live4play.uk/livehttpplay?channel_id=20068
-东森电影,http://live4play.uk/livehttpplay?channel_id=20077
-东森新闻,http://live4play.uk/livehttpplay?channel_id=20082
-东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
-非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034
 华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
-靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
-龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
-龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
 美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
-年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
-三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
-台视,http://live4play.uk/livehttpplay?channel_id=20076
-天映电影,http://live4play.uk/livehttpplay?channel_id=10130
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
 无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
@@ -121,10 +87,70 @@ VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 
+靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
+龙华电影,http://live4play.uk/livehttpplay?channel_id=10129
+龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
+壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
+年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
+Fgm电影,http://live4play.uk/livehttpplay?channel_id=10123
+三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
+天映频道,http://live4play.uk/livehttpplay?channel_id=10130
+博斯运动,http://live4play.uk/livehttpplay?channel_id=10131
+8,http://live4play.uk/livehttpplay?channel_id=10132
+Amc电影,http://live4play.uk/livehttpplay?channel_id=12036
+龙华偶像,http://live4play.uk/livehttpplay?channel_id=20023
+壹新闻,http://live4play.uk/livehttpplay?channel_id=20028
+年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
+非凡新闻,http://live4play.uk/livehttpplay?channel_id=20034
+Now新闻,http://live4play.uk/livehttpplay?channel_id=20041
+今日新闻,http://live4play.uk/livehttpplay?channel_id=20043
+BBC地球,http://live4play.uk/livehttpplay?channel_id=20044
+CinenaWorld,http://live4play.uk/livehttpplay?channel_id=20047
+卡通频道,http://live4play.uk/livehttpplay?channel_id=20048
+八大精彩台,http://live4play.uk/livehttpplay?channel_id=20052
+五星体育,http://live4play.uk/livehttpplay?channel_id=20060
+好莱坞电影,http://live4play.uk/livehttpplay?channel_id=20062
+CCM,http://live4play.uk/livehttpplay?channel_id=20063
+中天综合,http://live4play.uk/livehttpplay?channel_id=20064
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
+八大综合台,http://live4play.uk/livehttpplay?channel_id=20068
+TVB星河,http://live4play.uk/livehttpplay?channel_id=20070
+八大娱乐台,http://live4play.uk/livehttpplay?channel_id=20071
+东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
+八大第一台,http://live4play.uk/livehttpplay?channel_id=20073
+民视,http://live4play.uk/livehttpplay?channel_id=20074
+台视,http://live4play.uk/livehttpplay?channel_id=20076
+东森电影,http://live4play.uk/livehttpplay?channel_id=20077
+东森财经新闻,http://live4play.uk/livehttpplay?channel_id=20078
+中天娱乐,http://live4play.uk/livehttpplay?channel_id=20079
+东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
+龙华日韩,http://live4play.uk/livehttpplay?channel_id=20081
+东森新闻,http://live4play.uk/livehttpplay?channel_id=20082
+TVBS LIVE,http://live4play.uk/livehttpplay?channel_id=20085
+华视,http://live4play.uk/livehttpplay?channel_id=20086
+公视,http://live4play.uk/livehttpplay?channel_id=20087
+中视,http://live4play.uk/livehttpplay?channel_id=20088
+动漫,http://live4play.uk/livehttpplay?channel_id=20089
+龙华洋片,http://live4play.uk/livehttpplay?channel_id=20090
+HBO-Hits,http://live4play.uk/livehttpplay?channel_id=20091
+HBO-Family,http://live4play.uk/livehttpplay?channel_id=20092
+HBO,http://live4play.uk/livehttpplay?channel_id=20093
+民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
+博斯高球,http://live4play.uk/livehttpplay?channel_id=20103
+东森综合,http://live4play.uk/livehttpplay?channel_id=20104
+Tvbs欢乐台,http://live4play.uk/livehttpplay?channel_id=20105
+动物星球,http://live4play.uk/livehttpplay?channel_id=20106
+ELTA体育2台,http://live4play.uk/livehttpplay?channel_id=20107
+壹电影,http://live4play.uk/livehttpplay?channel_id=20108
+Tvbs精彩台,http://live4play.uk/livehttpplay?channel_id=20136
+纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
+凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
+凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
+靖天欢乐台,http://live4play.uk/livehttpplay?channel_id=30021
+
 📺央视-ITV👉,#genre#
-
-
-
 
 CCTV1综合,http://127.0.0.1:35456/bjyd/CCTV1.m3u8
 CCTV1综合,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/bjyd/CCTV1.m3u8
@@ -162,9 +188,6 @@ CCTV16奥林匹克,http://127.0.0.1:35456/bjyd/CCTV16.m3u8
 CCTV16奥林匹克,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/bjyd/CCTV16.m3u8
 CCTV17农业农村,http://127.0.0.1:35456/bjyd/CCTV17.m3u8
 CCTV17农业农村,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/bjyd/CCTV17.m3u8
-
-
-
 
 CCTV1综合,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1综合,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNDVFYx.mp4
@@ -215,7 +238,6 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
-
 
 📺卫视-ITV👉,#genre#
 CHC动作电影,http://107.174.52.32/itv.php?id=CHC动作电影
