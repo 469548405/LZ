@@ -5,7 +5,8 @@
 
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://gh-proxy.com/github.com/RSLZJX/LZ/raw/refs/heads/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"【定制节目】","type":0,"url":"https://gh-proxy.com/github.com/RSLZJX/LZ/raw/refs/heads/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png","catchup":{
+"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15,AptvPlayer/1.4.0"},
 {"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15,AptvPlayer/1.4.0"},
 {"name":"LiSha521.TV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1,"ua":"okhttp/3.15,AptvPlayer/1.4.0"},
@@ -42,7 +43,7 @@
 {"key":"巧技二","name":"巧技┃仅搜索","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i1g411302gk7gj3k72h781gl8k9839kl7i0707","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"巧技三","name":"巧技三┃QD4K","type":3,"api":"csp_AppYsV2","playerType":2,"ext":"7lj763gg0939795i0678i48hk312jji7g4k69h089ij36j71031154l2k91k151k138612h68842ji","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"juziys","name":"橘子┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg0939795i0qiaoji678i481k40hi2i3ghlg840i98j9667000134jg7k591gjjk9j5lg53255g2i7gl2749l3j2h8g5","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
-{"key":"yizys","name":"驿站┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh ","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
+{"key":"yizys","name":"驿站┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"主角","name":"主角┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg402i794qiaoji25i3l85i6h14i9ijilkg1i45gj99j2g6l514l077h26igjkk7ji13806611gh51986l53klijg4","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"永夜","name":"永夜┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"7lj763gg0939790i413gi4i4g5559jjil1g6qiaojij6j91071h8ljggi4lk07k543155l55il","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"木头","name":"木头┃App","type":3,"api":"csp_Shark","playerType":1,"ext":"7lj763gg0939790k5i39i4jkh9488386k4k6i952i1i62020535208l7lj004i16039g51g480038h986g53klijg6","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
