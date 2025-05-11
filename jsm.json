@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"【定制节目】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
 {"name":"LiSha521.TV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1,"ua":"okhttp/3.15"},
@@ -24,7 +24,7 @@
 {"name":"【Kilvn-iptv】","type":0,"url":"https://live.kilvn.com/iptv.m3u","ua":"okhttp/3.15"},
 {"name":"【王二小BJTV】","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742130501942/bjtv.txt","ua":"okhttp/3.15"},
 {"name":"【王二小钵钵鸡】","type":0,"url":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736923192652/boboji.m3u","ua":"okhttp/3.15"},
-{"name":"【Guovin】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15"},
+{"name":"【Guovin】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/Guovin/TV/gd/output/result.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0"},
 {"name":"【APTV】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","ua":"okhttp/3.15"},
 {"name":"【肥猫live】","type":0,"url":"https://6296.kstore.vip/25.txt","ua":"okhttp/3.15"}
 
