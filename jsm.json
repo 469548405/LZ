@@ -6,8 +6,9 @@
 
 "lives":[
 {"name":"【定制节目】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","timeout":10,"playerType":2,"logo":"https://epg.v1.mk/logo/{name}.png"},
-{"name":"【PG直播分类】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
-{"name":"【PG直播合并】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"ua":"okhttp/3.15"},
+{"name":"【北京移动】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+{"name":"最强国内直播(合并版)","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+{"name":"最强国内直播","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"LiSha521.TV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1,"ua":"okhttp/3.15"},
 {"name":"LiSha521.IPTV","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/iptv.txt","ua":"okhttp/3.15","timeout":10,"playerType":2},
 {"name":"LiSha521.HLJ","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/hlj.txt","ua":"okhttp/3.15"},
@@ -78,7 +79,7 @@
 "ext":"http://www.fish2018.ip-ddns.com/p/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$http://www.fish2018.ip-ddns.com/p/lib/panta.txt$$$PANTA",
 "style":{"type":"list","ratio":1.1}},
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./jar/market.json"},
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json"},
 {"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;9ee02bc9ad5410ef7ef3e8ba43a68caa"}
 
 ],
