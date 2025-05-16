@@ -74,6 +74,21 @@ VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 
 📺咪咕频道👉,#genre#
+CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
+CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
+CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
+CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
+香港卫视,http://148.135.93.213/live.php?id=香港卫视
+重温经典,http://148.135.93.213/live.php?id=重温经典
+
+CHC家庭影院,https://tv.iill.top/migu/jtyy
+CHC动作电影,https://tv.iill.top/migu/dzdy
+CHC影迷电影,https://tv.iill.top/migu/ymdy
+凤凰中文,https://tv.iill.top/phenix/fhzw
+凤凰资讯,https://tv.iill.top/phenix/fhzx
+凤凰香港,https://tv.iill.top/phenix/fhhk
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 CCTV1综合,http://148.135.93.213/live.php?id=CCTV1
 CCTV2财经,http://148.135.93.213/live.php?id=CCTV2
 CCTV3综艺,http://148.135.93.213/live.php?id=CCTV3
@@ -100,13 +115,6 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
-CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
-CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
-CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-香港卫视,http://148.135.93.213/live.php?id=香港卫视
-
-重温经典,http://148.135.93.213/live.php?id=重温经典
 北京卫视,http://148.135.93.213/live.php?id=北京卫视
 浙江卫视,http://148.135.93.213/live.php?id=浙江卫视
 江苏卫视,http://148.135.93.213/live.php?id=江苏卫视
@@ -138,7 +146,6 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 海南卫视,http://148.135.93.213/live.php?id=海南卫视
 大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
 
-
 CCTV1综合,https://tv.iill.top/migu/cctv1
 CCTV2财经,https://tv.iill.top/migu/cctv2
 CCTV3综艺,https://tv.iill.top/migu/cctv3
@@ -162,9 +169,6 @@ CETV1中国教育,https://tv.iill.top/migu/cetv1
 CETV2中国教育,https://tv.iill.top/migu/cetv2
 CETV4中国教育,https://tv.iill.top/migu/cetv4
 
-CHC家庭影院,https://tv.iill.top/migu/jtyy
-CHC动作电影,https://tv.iill.top/migu/dzdy
-CHC影迷电影,https://tv.iill.top/migu/ymdy
 江苏卫视,https://tv.iill.top/migu/jsws
 东方卫视,https://tv.iill.top/migu/dfws
 北京卫视,https://tv.iill.top/migu/北京卫视
