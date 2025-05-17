@@ -1,5 +1,5 @@
 ﻿{
-"spider":"http://www.fish2018.ip-ddns.com/p/pg.jar",
+"spider":"https://www.252035.xyz/p/pg.jar",
 
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -34,7 +34,7 @@
 
 
 "sites":[
-{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"http://www.fish2018.ip-ddns.com/p/lib/tokenm.json$$$http://www.fish2018.ip-ddns.com/p/lib/douban.json"},
+{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"https://www.252035.xyz/p/lib/tokenm.json$$$https://www.252035.xyz/p/lib/douban.json"},
 
 {"key":"天天┃App","name":"天天","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg09397919456493i0h44j8681highi4","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
 {"key":"csp_xlys","name":"修罗┃无搜索","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij","jar":"./jar/fix250411.jar;md5;137ab413fb53d4f865a9b91453c96716"},
@@ -68,12 +68,12 @@
 {"key":"csp_Auete","name":"Auete┃无搜索","type":3,"api":"csp_Auete","searchable":1,"playerType":1,"quickSearch":1,"filterable":1},
 
 {"key":"Guazi","name":"瓜子|App","type":3,"api":"csp_Guazi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":""},
-{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"http://www.fish2018.ip-ddns.com/p/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$http://www.fish2018.ip-ddns.com/p/lib/panta.txt$$$PANTA","style":{"type":"list","ratio":1.1}},
+{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://www.252035.xyz/p/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1$$$https://www.252035.xyz/p/lib/panta.txt$$$PANTA","style":{"type":"list","ratio":1.1}},
 
-{"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"http://www.fish2018.ip-ddns.com/p/lib/live2vod.js","ext":"http://www.fish2018.ip-ddns.com/p/lib/feimaolive.json"},
+{"key":"直播转点播","name":"🐼️┃电视┃直播","type":3,"searchable":0,"api":"https://www.252035.xyz/p/lib/live2vod.js","ext":"https://www.252035.xyz/p/lib/feimaolive.json"},
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"http://www.fish2018.ip-ddns.com/p/lib/tokenm.json","jar":"http://www.fish2018.ip-ddns.com/p/pg.jar"}
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"https://www.252035.xyz/p/lib/tokenm.json","jar":"https://www.252035.xyz/p/pg.jar"}
 
 ],
 
