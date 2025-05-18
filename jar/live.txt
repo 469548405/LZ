@@ -73,17 +73,13 @@ VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 
-📺咪咕频道👉,#genre#
+📺咪咕 TV👉,#genre#
 CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
 CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 香港卫视,http://148.135.93.213/live.php?id=香港卫视
 重温经典,http://148.135.93.213/live.php?id=重温经典
-
-CHC家庭影院,https://tv.iill.top/migu/jtyy
-CHC动作电影,https://tv.iill.top/migu/dzdy
-CHC影迷电影,https://tv.iill.top/migu/ymdy
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 CCTV1综合,http://148.135.93.213/live.php?id=CCTV1
@@ -102,7 +98,6 @@ CCTV12社会与法,http://148.135.93.213/live.php?id=CCTV12
 CCTV13新闻,http://148.135.93.213/live.php?id=CCTV13
 CCTV14少儿,http://148.135.93.213/live.php?id=CCTV14
 CCTV15音乐,http://148.135.93.213/live.php?id=CCTV15
-CCTV16奥林匹克,http://148.135.93.213/live.php?id=CCTV16
 CCTV17农业农村,http://148.135.93.213/live.php?id=CCTV17
 
 CGTN英语,https://0472.org/hls/cgtn.m3u8
@@ -143,69 +138,11 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 海南卫视,http://148.135.93.213/live.php?id=海南卫视
 大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
 
-CCTV1综合,https://tv.iill.top/migu/cctv1
-CCTV2财经,https://tv.iill.top/migu/cctv2
-CCTV3综艺,https://tv.iill.top/migu/cctv3
-CCTV4中文国际,https://tv.iill.top/migu/cctv4
-CCTV4中文国际·美洲,https://tv.iill.top/migu/cctv4m
-CCTV4中文国际·欧洲,https://tv.iill.top/migu/cctv4o
-CCTV5体育,https://tv.iill.top/migu/cctv5
-CCTV5+体育赛事,https://tv.iill.top/migu/cctv5p
-CCTV6电影,https://tv.iill.top/migu/cctv6
-CCTV7国防军事,https://tv.iill.top/migu/cctv7
-CCTV8电视剧,https://tv.iill.top/migu/cctv8
-CCTV9纪录,https://tv.iill.top/migu/cctv9
-CCTV10科教,https://tv.iill.top/migu/cctv10
-CCTV11戏曲,https://tv.iill.top/migu/cctv11
-CCTV12社会与法,https://tv.iill.top/migu/cctv12
-CCTV13新闻,https://tv.iill.top/migu/cctv13
-CCTV14少儿,https://tv.iill.top/migu/cctv14
-CCTV15音乐,https://tv.iill.top/migu/cctv15
-CCTV17农村农业,https://tv.iill.top/migu/cctv17
-CETV1中国教育,https://tv.iill.top/migu/cetv1
-CETV2中国教育,https://tv.iill.top/migu/cetv2
-CETV4中国教育,https://tv.iill.top/migu/cetv4
-
-江苏卫视,https://tv.iill.top/migu/jsws
-东方卫视,https://tv.iill.top/migu/dfws
-北京卫视,https://tv.iill.top/migu/北京卫视
-浙江卫视,https://tv.iill.top/migu/浙江卫视
-陕西卫视,https://tv.iill.top/migu/陕西卫视
-湖北卫视,https://tv.iill.top/migu/湖北卫视
-内蒙古卫视,https://tv.iill.top/migu/内蒙古卫视
-江西卫视,https://tv.iill.top/migu/江西卫视
-东方卫视,https://tv.iill.top/migu/东方卫视
-西藏卫视,https://tv.iill.top/migu/西藏卫视
-新疆卫视,https://tv.iill.top/migu/新疆卫视
-青海卫视,https://tv.iill.top/migu/青海卫视
-东南卫视,https://tv.iill.top/migu/东南卫视
-吉林卫视,https://tv.iill.top/migu/吉林卫视
-四川卫视,https://tv.iill.top/migu/四川卫视
-天津卫视,https://tv.iill.top/migu/天津卫视
-安徽卫视,https://tv.iill.top/migu/安徽卫视
-山东卫视,https://tv.iill.top/migu/山东卫视
-山西卫视,https://tv.iill.top/migu/山西卫视
-广西卫视,https://tv.iill.top/migu/广西卫视
-河北卫视,https://tv.iill.top/migu/河北卫视
-河南卫视,https://tv.iill.top/migu/河南卫视
-深圳卫视,https://tv.iill.top/migu/深圳卫视
-甘肃卫视,https://tv.iill.top/migu/甘肃卫视
-贵州卫视,https://tv.iill.top/migu/贵州卫视
-辽宁卫视,https://tv.iill.top/migu/辽宁卫视
-重庆卫视,https://tv.iill.top/migu/重庆卫视
-黑龙江卫视,https://tv.iill.top/migu/黑龙江卫视
-海南卫视,https://tv.iill.top/migu/海南卫视
-大湾区卫视,https://tv.iill.top/migu/大湾区卫视
-
-
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
-
-
-
 
 
 📺北京移动👉,#genre#
@@ -1177,6 +1114,20 @@ SCTV-7,http://wouu.net:9977/udp/239.93.0.219:5140
 浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+
+
+五师新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+青海西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+青海西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+青海|西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+青海|西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+西宁新闻,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+
 
 
 📺咪咕体育👉,#genre#
