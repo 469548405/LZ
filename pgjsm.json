@@ -6,10 +6,10 @@
 
 "lives":[
 {"name":"【定制节目】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"【Gather.直播】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"【北京移动】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u","ua":"okhttp/3.15","epg":"http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"【国内直播(合并)】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"【国内直播(分类)】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
-{"name":"【Gather.直播】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"【V4聚合】","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15"},
 {"name":"【LiSha521.TV】","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/tv.txt","playerType":1,"ua":"okhttp/3.15"},
 {"name":"【LiSha521.IPTV】","type":0,"url":"http://lisha521.dynv6.net.fh4u.org/iptv.txt","ua":"okhttp/3.15"},
