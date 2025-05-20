@@ -1,20 +1,21 @@
 ﻿📺港-澳-台👉,#genre#
-凤凰中文,https://tv.iill.top/phenix/fhzw
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,https://tv.iill.top/phenix/fhzx
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,https://tv.iill.top/phenix/fhhk
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
@@ -24,6 +25,7 @@
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -36,42 +38,6 @@
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 
-Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
-RTHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-TVB Jade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-VIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
 
