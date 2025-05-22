@@ -1,20 +1,34 @@
 ﻿📺港澳频道👉,#genre#
+凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
+星光电影,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光视界台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+
+
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
+美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
+娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
+明珠台,https://live.tvfix.org/live/pearl/index.m3u8
+
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
@@ -24,7 +38,6 @@
 千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -37,9 +50,15 @@
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 
+
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+
+
+凤凰中文,https://tv.iill.top/phenix/fhzw
+凤凰资讯,https://tv.iill.top/phenix/fhzx
+凤凰香港,https://tv.iill.top/phenix/fhhk
 
 
 📺央视频道👉,#genre#
@@ -120,6 +139,20 @@ CCTV14少儿,https://tv.iill.top/migu/cctv14
 CCTV15音乐,https://tv.iill.top/migu/cctv15
 CCTV17农业农村,https://tv.iill.top/migu/cctv17
 
+CCTV1综合,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2财经,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3综艺,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4中文国际,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5体育,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV6电影,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8电视剧,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9纪录,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10科教,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11戏曲,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12社会与法,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13新闻,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 CCTV1综合,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV1综合,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPUNDVFYx.mp4
@@ -386,6 +419,32 @@ CHC动作电影,https://tv.iill.top/migu/dzdy
 江苏卫视,https://tv.iill.top/migu/jsws
 东方卫视,https://tv.iill.top/migu/dfws
 
+
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 
 安徽卫视,http://itv.iptv1688.top:2016/itv.php?id=安徽卫视
 安徽卫视,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxymp4/aHR0cDovL2l0di5pcHR2MTY4OC50b3A6MjAxNi9pdHYucGhwP2lkPeWuieW-veWNq-inhg.mp4
