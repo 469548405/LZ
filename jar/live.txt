@@ -2,11 +2,12 @@
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-美亚电影,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
+美亚电影台,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
+TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
@@ -14,41 +15,51 @@
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 明珠台,https://live.tvfix.org/live/pearl/index.m3u8
 美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
-TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 中国电影,https://live.tvfix.org/live/cmc/index.m3u8
 天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
 娱乐新闻,https://live.tvfix.org/live/enews/index.m3u8
 无线新闻,https://live.tvfix.org/live/inews/index.m3u8
 创世频道,https://live.tvfix.org/live/chuangshi/index.m3u8
+TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
+TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-星光电影,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
-凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzw
+
+
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
+凤凰中文,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
+凤凰资讯,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
+峨眉电影.1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -57,9 +68,34 @@ TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
+华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
+千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+千禧经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
+千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+天映频道,http://php.jdshipin.com/smt.php?id=Celestial
+无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -1156,7 +1192,323 @@ City都市剧场,http://wouu.net:9977/udp/239.93.42.30:5140
 中国体育3,http://wouu.net:9977/udp/239.93.42.27:5140
 中录动漫,http://wouu.net:9977/udp/239.93.1.188:5140
 
-📺地方频道👉,#genre#
+📺河北电信👉,#genre#
+
+CCTV1综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.45:8008
+CCTV2财经,http://vip.lqcc.xyz:15511/rtp/239.254.200.158:6000
+CCTV3综艺,http://vip.lqcc.xyz:15511/rtp/239.254.200.13:6000
+CCTV3综艺,http://vip.lqcc.xyz:15511/rtp/239.254.201.152:7205
+CCTV4中文国际,http://vip.lqcc.xyz:15511/rtp/239.254.200.190:6307
+CCTV4中文国际美洲,http://vip.lqcc.xyz:15511/rtp/239.254.201.206:4220
+CCTV4中文国际欧洲,http://vip.lqcc.xyz:15511/rtp/239.254.201.205:4220
+CCTV5+体育赛事,http://vip.lqcc.xyz:15511/rtp/239.254.200.46:8004
+CCTV5体育,http://vip.lqcc.xyz:15511/rtp/239.254.200.14:6000
+CCTV5体育,http://vip.lqcc.xyz:15511/rtp/239.254.201.153:7206
+CCTV6电影,http://vip.lqcc.xyz:15511/rtp/239.254.200.15:6000
+CCTV6电影,http://vip.lqcc.xyz:15511/rtp/239.254.201.154:7207
+CCTV7国防军事,http://vip.lqcc.xyz:15511/rtp/239.254.200.159:6000
+CCTV8电视剧,http://vip.lqcc.xyz:15511/rtp/239.254.200.16:6000
+CCTV8电视剧,http://vip.lqcc.xyz:15511/rtp/239.254.201.155:7208
+CCTV9纪录,http://vip.lqcc.xyz:15511/rtp/239.254.200.59:8112
+CCTV10科教,http://vip.lqcc.xyz:15511/rtp/239.254.200.160:6000
+CCTV11戏曲,http://vip.lqcc.xyz:15511/rtp/239.254.201.123:8120
+CCTV12社会与法,http://vip.lqcc.xyz:15511/rtp/239.254.200.161:6000
+CCTV13新闻,http://vip.lqcc.xyz:15511/rtp/239.254.200.9:8264
+CCTV14少儿,http://vip.lqcc.xyz:15511/rtp/239.254.200.162:6000
+CCTV15音乐,http://vip.lqcc.xyz:15511/rtp/239.254.201.124:8136
+CCTV16奥林匹克,http://vip.lqcc.xyz:15511/rtp/239.254.201.150:6345
+CCTV17农业农村,http://vip.lqcc.xyz:15511/rtp/239.254.201.120:8144
+
+
+CCTV兵器科技,http://vip.lqcc.xyz:15511/rtp/239.254.200.101:6235
+CCTV兵器科技,http://vip.lqcc.xyz:15511/rtp/239.254.201.225:7249
+CCTV第一剧场,http://vip.lqcc.xyz:15511/rtp/239.254.200.93:6227
+CCTV第一剧场,http://vip.lqcc.xyz:15511/rtp/239.254.201.218:7258
+CCTV电视指南,http://vip.lqcc.xyz:15511/rtp/239.254.200.142:6256
+CCTV电视指南,http://vip.lqcc.xyz:15511/rtp/239.254.201.217:7250
+CCTV风云剧场,http://vip.lqcc.xyz:15511/rtp/239.254.200.94:6228
+CCTV风云剧场,http://vip.lqcc.xyz:15511/rtp/239.254.201.219:7257
+CCTV风云音乐,http://vip.lqcc.xyz:15511/rtp/239.254.200.96:6230
+CCTV风云音乐,http://vip.lqcc.xyz:15511/rtp/239.254.201.221:7259
+CCTV风云足球,http://vip.lqcc.xyz:15511/rtp/239.254.200.97:6231
+CCTV风云足球,http://vip.lqcc.xyz:15511/rtp/239.254.201.222:7251
+CCTV高尔夫网球,http://vip.lqcc.xyz:15511/rtp/239.254.200.98:6232
+CCTV高尔夫网球,http://vip.lqcc.xyz:15511/rtp/239.254.201.223:7252
+CCTV怀旧剧场,http://vip.lqcc.xyz:15511/rtp/239.254.200.95:6229
+CCTV怀旧剧场,http://vip.lqcc.xyz:15511/rtp/239.254.201.220:7256
+CCTV世界地理,http://vip.lqcc.xyz:15511/rtp/239.254.200.102:6236
+CCTV世界地理,http://vip.lqcc.xyz:15511/rtp/239.254.201.226:7254
+CCTV文化精品,http://vip.lqcc.xyz:15511/rtp/239.254.200.111:6251
+CCTV文化精品,http://vip.lqcc.xyz:15511/rtp/239.254.201.229:7260
+CETV1,http://vip.lqcc.xyz:15511/rtp/239.254.200.225:6259
+CETV2,http://vip.lqcc.xyz:15511/rtp/239.254.200.226:6260
+CETV4,http://vip.lqcc.xyz:15511/rtp/239.254.200.227:6261
+CGTN,http://vip.lqcc.xyz:15511/rtp/239.254.200.12:8056
+CGTN阿拉伯语,http://vip.lqcc.xyz:15511/rtp/239.254.201.211:4220
+CGTN俄语,http://vip.lqcc.xyz:15511/rtp/239.254.201.212:4220
+CGTN法语,http://vip.lqcc.xyz:15511/rtp/239.254.201.210:4220
+CGTN纪录,http://vip.lqcc.xyz:15511/rtp/239.254.201.208:4220
+CGTN西班牙语,http://vip.lqcc.xyz:15511/rtp/239.254.201.209:4220
+
+凤凰中文,http://vip.lqcc.xyz:15511/rtp/239.254.201.2:5226
+凤凰资讯,http://vip.lqcc.xyz:15511/rtp/239.254.201.3:5227
+凤凰电影,http://vip.lqcc.xyz:15511/rtp/239.254.201.1:5214
+安徽卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.163:6000
+北京卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.47:8024
+东方卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.52:8032
+东南卫视,http://vip.lqcc.xyz:15511/rtp/239.254.201.13:6291
+甘肃卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.90:8188
+广东卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.56:8048
+广西卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.80:8300
+贵州卫视,http://vip.lqcc.xyz:15511/rtp/239.254.201.20:6315
+海南卫视,http://vip.lqcc.xyz:15511/rtp/239.254.201.125:6288
+河北卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.174:6000
+河南卫视,http://vip.lqcc.xyz:15511/rtp/239.254.201.16:7174
+黑龙江卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.49:8016
+湖北卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.164:6000
+湖南卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.48:8012
+吉林卫视,http://vip.lqcc.xyz:15511/rtp/239.254.201.15:6339
+江苏卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.51:8028
+江西卫视,http://vip.lqcc.xyz:15511/rtp/239.254.201.12:6290
+辽宁卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.57:8056
+内蒙古卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.84:8176
+宁夏卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.87:8124
+青海卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.85:8184
+山东卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.55:8052
+山西卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.83:8172
+陕西卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.82:8140
+深圳卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.50:8020
+四川卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.202:6325
+天津卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.54:1234
+西藏卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.88:8164
+新疆卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.89:8160
+云南卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.68:8108
+浙江卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.53:8036
+重庆卫视,http://vip.lqcc.xyz:15511/rtp/239.254.200.203:6323
+
+河北都市,http://vip.lqcc.xyz:15511/rtp/239.254.200.19:6000
+河北公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.22:6000
+河北经济生活,http://vip.lqcc.xyz:15511/rtp/239.254.200.18:6000
+河北农民,http://vip.lqcc.xyz:15511/rtp/239.254.200.23:6000
+河北少儿科教,http://vip.lqcc.xyz:15511/rtp/239.254.200.21:6000
+河北影视剧,http://vip.lqcc.xyz:15511/rtp/239.254.200.20:6000
+河北杂技,http://vip.lqcc.xyz:15511/rtp/239.254.201.139:7203
+
+安平电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.42:5348
+安新电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.99:6255
+霸州电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.4:5313
+柏乡电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.140:5383
+渤海电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.35:5327
+昌黎电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.61:5230
+成安电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.143:6210
+赤城电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.131:5269
+崇礼电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.117:5267
+大厂电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.71:5310
+大城电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.34:5308
+大名电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.149:6212
+定兴电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.172:5246
+定州电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.74:6251
+东光电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.76:5331
+肥乡电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.105:5223
+丰南电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.218:5186
+丰宁电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.5:5290
+丰润电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.58:5197
+抚宁电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.213:5232
+阜城电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.98:5361
+阜平电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.40:5248
+高碑店电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.210:5254
+高阳电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.96:6253
+高邑电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.24:5170
+固安电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.101:5312
+故城电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.126:5362
+馆陶电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.106:5224
+广平电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.70:5220
+广宗电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.50:5373
+邯山电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.116:5225
+黄骅电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.36:5325
+鸡泽电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.60:5218
+冀州电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.179:5346
+晋州电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.127:5184
+井陉电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.215:6167
+井陉矿区电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.14:5175
+景县电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.240:5350
+康保电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.135:5270
+涞水电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.10:5250
+涞源电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.213:5260
+乐亭电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.107:5200
+临漳电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.73:5221
+隆化电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.142:5296
+隆尧电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.69:5379
+卢龙电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.216:5233
+鹿泉电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.204:6166
+栾城电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.215:5173
+滦南电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.22:5191
+滦平电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.4:5291
+滦州电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.30:5196
+满城电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.222:5252
+孟村电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.38:5329
+南宫电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.48:5371
+南和电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.72:6000
+南皮电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.119:5335
+内丘电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.77:5380
+宁晋电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.51:5375
+平泉电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.177:5286
+平乡电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.53:5378
+迁安电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.109:5199
+迁西电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.26:5188
+青县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.112:5333
+清河电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.170:5366
+邱县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.129:6209
+曲阳电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.242:5265
+曲周电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.236:5210
+饶阳电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.44:5353
+任县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.115:5381
+容城电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.102:6256
+三河电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.113:5315
+沙河电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.181:5369
+涉县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.97:5222
+深泽电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.108:5180
+深州电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.46:5357
+双滦电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.63:5293
+顺平电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.118:6257
+肃宁电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.122:5336
+唐县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.41:5264
+望都电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.56:6246
+魏县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.148:6211
+文安电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.103:5314
+无极电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.220:5167
+吴桥电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.138:5337
+武安电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.6:5216
+武邑电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.8:5355
+香河电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.32:5306
+兴隆电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.95:5295
+雄县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.94:6254
+徐水电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.147:6260
+盐山电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.114:5334
+永清电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.141:5316
+玉田电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.28:5194
+元氏电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.191:5169
+赞皇电视,http://vip.lqcc.xyz:15511/rtp/239.254.200.244:5177
+枣强电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.136:5363
+张北电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.130:5271
+赵县电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.111:5183
+涿鹿电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.145:5272
+涿州电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.17:5261
+遵化电视,http://vip.lqcc.xyz:15511/rtp/239.254.201.146:5202
+
+保定公共频道,http://vip.lqcc.xyz:15511/rtp/239.254.200.145:6000
+保定生活健康,http://vip.lqcc.xyz:15511/rtp/239.254.200.146:6000
+保定新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.144:6000
+北京纪实科教,http://vip.lqcc.xyz:15511/rtp/239.254.200.188:6311
+冰雪体育,http://vip.lqcc.xyz:15511/rtp/239.254.201.172:7244
+财富天下,http://vip.lqcc.xyz:15511/rtp/239.254.200.124:6370
+沧州公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.43:6000
+沧州新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.42:6000
+沧州影视娱乐,http://vip.lqcc.xyz:15511/rtp/239.254.200.44:6000
+茶频道,http://vip.lqcc.xyz:15511/rtp/239.254.200.228:6258
+车迷,http://vip.lqcc.xyz:15511/rtp/239.254.201.162:6266
+承德公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.33:6000
+承德新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.32:6000
+东方财经,http://vip.lqcc.xyz:15511/rtp/239.254.201.181:7214
+动漫秀场,http://vip.lqcc.xyz:15511/rtp/239.254.201.165:6358
+都市剧场,http://vip.lqcc.xyz:15511/rtp/239.254.201.167:6360
+法治天地,http://vip.lqcc.xyz:15511/rtp/239.254.201.183:7226
+辅视角2标清,http://vip.lqcc.xyz:15511/rtp/239.254.201.87:6000
+辅视角3标清,http://vip.lqcc.xyz:15511/rtp/239.254.201.88:6000
+国学,http://vip.lqcc.xyz:15511/rtp/239.254.200.107:6255
+邯郸公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.154:6000
+邯郸科技教育,http://vip.lqcc.xyz:15511/rtp/239.254.200.155:6000
+邯郸新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.153:6000
+衡水公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.149:6000
+衡水新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.147:6000
+欢笑剧场,http://vip.lqcc.xyz:15511/rtp/239.254.201.164:6355
+环球旅游,http://vip.lqcc.xyz:15511/rtp/239.254.201.161:6264
+环球奇观,http://vip.lqcc.xyz:15511/rtp/239.254.200.105:6238
+极速汽车,http://vip.lqcc.xyz:15511/rtp/239.254.201.168:6362
+纪实人文,http://vip.lqcc.xyz:15511/rtp/239.254.200.58:8060
+家家购物,http://vip.lqcc.xyz:15511/rtp/239.254.201.144:7262
+家庭理财,http://vip.lqcc.xyz:15511/rtp/239.254.201.188:6366
+家有购物,http://vip.lqcc.xyz:15511/rtp/239.254.201.80:7192
+嘉佳卡通,http://vip.lqcc.xyz:15511/rtp/239.254.201.201:7269
+金色学堂,http://vip.lqcc.xyz:15511/rtp/239.254.201.182:7227
+金鹰纪实,http://vip.lqcc.xyz:15511/rtp/239.254.200.189:6293
+金鹰卡通,http://vip.lqcc.xyz:15511/rtp/239.254.200.92:9252
+睛彩河北,http://vip.lqcc.xyz:15511/rtp/239.254.200.27:6000
+靓妆,http://vip.lqcc.xyz:15511/rtp/239.254.200.122:6249
+九屏直播频道,http://vip.lqcc.xyz:15511/rtp/239.254.200.248:6000
+聚鲨环球精选,http://vip.lqcc.xyz:15511/rtp/239.254.201.81:7191
+卡酷少儿,http://vip.lqcc.xyz:15511/rtp/239.254.200.91:9248
+快乐垂钓,http://vip.lqcc.xyz:15511/rtp/239.254.200.229:6257
+快乐购,http://vip.lqcc.xyz:15511/rtp/239.254.201.79:7196
+廊坊公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.184:6000
+廊坊新闻,http://vip.lqcc.xyz:15511/rtp/239.254.200.183:6000
+老故事,http://vip.lqcc.xyz:15511/rtp/239.254.200.104:6237
+梨园,http://vip.lqcc.xyz:15511/rtp/239.254.200.120:6247
+梨园,http://vip.lqcc.xyz:15511/rtp/239.254.201.231:7228
+临时直播频道2,http://vip.lqcc.xyz:15511/rtp/239.254.201.65:6000
+临时直播频道3,http://vip.lqcc.xyz:15511/rtp/239.254.201.66:6000
+临时直播频道4,http://vip.lqcc.xyz:15511/rtp/239.254.201.67:6000
+临时直播频道5,http://vip.lqcc.xyz:15511/rtp/239.254.201.68:6000
+马拉松,http://vip.lqcc.xyz:15511/rtp/239.254.201.173:7246
+每日健身,http://vip.lqcc.xyz:15511/rtp/239.254.201.174:7245
+女性时尚,http://vip.lqcc.xyz:15511/rtp/239.254.200.110:6241
+女性时尚,http://vip.lqcc.xyz:15511/rtp/239.254.201.228:7255
+七彩戏剧,http://vip.lqcc.xyz:15511/rtp/239.254.201.180:7213
+汽摩,http://vip.lqcc.xyz:15511/rtp/239.254.200.103:6252
+秦皇岛公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.40:6000
+秦皇岛新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.39:6000
+秦皇岛影视,http://vip.lqcc.xyz:15511/rtp/239.254.200.41:6000
+求索纪录,http://vip.lqcc.xyz:15511/rtp/239.254.201.176:7221
+全纪实,http://vip.lqcc.xyz:15511/rtp/239.254.201.200:6356
+三佳购物,http://vip.lqcc.xyz:15511/rtp/239.254.200.143:6000
+山东教育,http://vip.lqcc.xyz:15511/rtp/239.254.200.247:4120
+摄影,http://vip.lqcc.xyz:15511/rtp/239.254.200.119:6246
+生活时尚,http://vip.lqcc.xyz:15511/rtp/239.254.201.166:6359
+生态环境,http://vip.lqcc.xyz:15511/rtp/239.254.201.187:6226
+石家庄都市,http://vip.lqcc.xyz:15511/rtp/239.254.200.31:6000
+石家庄生活,http://vip.lqcc.xyz:15511/rtp/239.254.200.30:6000
+石家庄新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.157:6000
+石家庄娱乐,http://vip.lqcc.xyz:15511/rtp/239.254.200.29:6000
+书画,http://vip.lqcc.xyz:15511/rtp/239.254.200.217:6267
+四海钓鱼,http://vip.lqcc.xyz:15511/rtp/239.254.201.185:6363
+唐山公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.169:6000
+唐山生活服务,http://vip.lqcc.xyz:15511/rtp/239.254.200.167:6000
+唐山新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.166:6000
+唐山影视,http://vip.lqcc.xyz:15511/rtp/239.254.200.168:6000
+陶瓷,http://vip.lqcc.xyz:15511/rtp/239.254.201.21:7175
+体育赛事,http://vip.lqcc.xyz:15511/rtp/239.254.201.170:8176
+天元围棋,http://vip.lqcc.xyz:15511/rtp/239.254.201.156:6270
+网络棋牌,http://vip.lqcc.xyz:15511/rtp/239.254.201.159:7169
+文物宝库,http://vip.lqcc.xyz:15511/rtp/239.254.200.106:6239
+文物宝库,http://vip.lqcc.xyz:15511/rtp/239.254.201.227:7230
+武术世界,http://vip.lqcc.xyz:15511/rtp/239.254.200.100:6234
+武术世界,http://vip.lqcc.xyz:15511/rtp/239.254.201.224:7229
+先锋乒羽,http://vip.lqcc.xyz:15511/rtp/239.254.201.160:7172
+新动漫,http://vip.lqcc.xyz:15511/rtp/239.254.201.158:7170
+邢台城市生活,http://vip.lqcc.xyz:15511/rtp/239.254.200.152:6000
+邢台综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.150:6000
+央广购物,http://vip.lqcc.xyz:15511/rtp/239.254.201.202:7268
+央视台球,http://vip.lqcc.xyz:15511/rtp/239.254.201.171:7176
+音像世界,http://vip.lqcc.xyz:15511/rtp/239.254.201.175:7243
+优购物,http://vip.lqcc.xyz:15511/rtp/239.254.201.78:6283
+优漫卡通,http://vip.lqcc.xyz:15511/rtp/239.254.201.203:7178
+优优宝贝,http://vip.lqcc.xyz:15511/rtp/239.254.201.186:6272
+游戏风云,http://vip.lqcc.xyz:15511/rtp/239.254.201.163:6354
+游戏竞技,http://vip.lqcc.xyz:15511/rtp/239.254.201.157:6269
+羽毛球专区,http://vip.lqcc.xyz:15511/rtp/239.254.201.214:7264
+早期教育,http://vip.lqcc.xyz:15511/rtp/239.254.200.114:6244
+早期教育,http://vip.lqcc.xyz:15511/rtp/239.254.201.230:7253
+张家口公共,http://vip.lqcc.xyz:15511/rtp/239.254.200.36:6000
+张家口新闻综合,http://vip.lqcc.xyz:15511/rtp/239.254.200.35:6000
+中国交通频道,http://vip.lqcc.xyz:15511/rtp/239.254.201.110:5181
+中华美食,http://vip.lqcc.xyz:15511/rtp/239.254.201.189:7171
+中华特产,http://vip.lqcc.xyz:15511/rtp/239.254.201.184:6263
+中式八球国际公开赛,http://vip.lqcc.xyz:15511/rtp/239.254.200.187:6000
+中学生,http://vip.lqcc.xyz:15511/rtp/239.254.200.113:6243
+足球频道,http://vip.lqcc.xyz:15511/rtp/239.254.201.169:6341
+
+
+📺全国地方👉,#genre#
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 四川卫视,http://wouu.net:9977/udp/239.93.0.169:5140
 四川经济,http://wouu.net:9977/udp/239.93.1.101:5140
@@ -1990,7 +2342,6 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Loupe 4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxym3u/aHR0cHM6Ly9kMmR3MjFhcTBqMGw1Yy5jbG91ZGZyb250Lm5ldC9wbGF5bGlzdF8zODQweDIxNjAubTN1OA.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Fashion 4K,http://127.0.0.1:10079/av3am3u/0/null/http://127.0.0.1:35456/proxym3u/aHR0cHM6Ly9mYXNoMjA0My5jbG91ZHljZG4uc2VydmljZXMvc2xpdmUvZnR2X2Z0dl80a19oZXZjXzczZF80MjA4MF9kZWZhdWx0XzQ2Nl9obHMuc21pbC9wbGF5bGlzdC5tM3U4.m3u8
-
 
 📺春晚节目👉,#genre#
 春晚2025,https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
