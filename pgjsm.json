@@ -32,7 +32,7 @@
 
 
 "sites":[
-{"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
+{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"https://www.252035.xyz/p/lib/tokenm.json$$$https://www.252035.xyz/p/lib/douban.json"},
 
 {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg09397919456493i0h44j8681highi4","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
 {"key":"csp_xlys","name":"修罗┃无搜索","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij","jar":"./jar/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"},
