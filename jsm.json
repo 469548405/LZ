@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"【定制节目】","type":0,"url":"./live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"【APTV节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"【Gather.直播】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"【北京移动】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
