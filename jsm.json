@@ -5,7 +5,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png"},
+{"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png"},
 {"name":"【Gather.直播】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name":"【北京移动】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
 {"name":"【国内直播(合并)】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
@@ -31,7 +31,7 @@
 
 
 "sites":[
-{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
+{"key":"豆瓣","name":"🍥豆--瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/douban.json"},
 
 
 {"key":"天天","name":"天天┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"7lj763gg09397919456493i0h44j8681highi4","jar":"./jar/fix250524.jar;md5;165bf6823d6a4e16f6cbc18f5bb16dce"},
@@ -69,8 +69,8 @@
 
 {"key":"Guazi","name":"瓜子|App","type":3,"api":"csp_Guazi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":""},
 {"key":"本地","name":"💻本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
-{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json"},
-{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar;md5;9ee02bc9ad5410ef7ef3e8ba43a68caa"}
+{"key":"商店","name":"🏬应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://slink.ltd/raw.githubusercontent.com/RSLZJX/LZ/main/jar/market.json"},
+{"key":"push_agent","name":"🛴推送","type":3,"api":"csp_Push","changeable":0,"timeout":60,"ext":"./lib/tokenm.json","jar":"./pg.jar"}
 
 ],
 
