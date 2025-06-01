@@ -2,41 +2,17 @@
 凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/2/v4000000/index.m3u8
-美亚电影台,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-无线新闻,https://live.tvfix.org/live/inews/3/v4000000/index.m3u8
-娱乐新闻,https://live.tvfix.org/live/enews/1/v4000000/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/1/v1000000/index.m3u8
-TVBS新闻,https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
 
 凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
 凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
 凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
-翡翠台,https://live.tvfix.org/live/jade/index.m3u8
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
-美亚电影台,https://live.tvfix.org/live/mydy/index.m3u8
-中国电影,https://live.tvfix.org/live/cmc/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
-娱乐新闻,https://live.tvfix.org/live/enews/index.m3u8
-无线新闻,https://live.tvfix.org/live/inews/index.m3u8
-创世频道,https://live.tvfix.org/live/chuangshi/index.m3u8
-TVBS亚洲台,https://live.tvfix.org/live/tvbs/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
-创世电视,https://live.tvfix.org/live/chuangshi/index.m3u8
-CCTV1综合,https://live.tvfix.org/live/cctv1hd/index.m3u8
-东方卫视,https://live.tvfix.org/live/dfhd/index.m3u8
-CGTN,https://live.tvfix.org/live/cgtnhd/index.m3u8
-CGTN纪录,https://live.tvfix.org/live/cgtndochd/index.m3u8
+
 
 凤凰中文,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 凤凰香港,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-翡翠台,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-星光电影台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-
-
 
 凤凰中文,http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -50,59 +26,19 @@ CGTN纪录,https://live.tvfix.org/live/cgtndochd/index.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-RTHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVBJade,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 峨眉电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-华丽翡翠,http://php.jdshipin.com:8880/smt.php?id=Wlt
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
-千禧经典,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=tvbc
-千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-天映频道,http://php.jdshipin.com/smt.php?id=Celestial
-无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
 
@@ -197,9 +133,15 @@ CCTV15音乐,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
 CCTV16奥林匹克,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 CCTV17农业农村,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 
-CGTN西语,http://goo.bkpcp.top/mg/cgtne 
-CGTN阿语,http://goo.bkpcp.top/mg/cgtna 
-CGTN法语,http://goo.bkpcp.top/mg/cgtnf 
+
+CCTV发现之旅,http://goo.bkpcp.top/mg/fxzl
+CCTV老故事,http://goo.bkpcp.top/mg/lgs
+CCTV中学生,http://goo.bkpcp.top/mg/zxs
+CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
+CGTN西语,http://goo.bkpcp.top/mg/cgtne
+CGTN阿语,http://goo.bkpcp.top/mg/cgtna
+CGTN法语,http://goo.bkpcp.top/mg/cgtnf
+CGTN俄语,http://goo.bkpcp.top/mg/cgtnr
 
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
@@ -235,17 +177,15 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
 陕西卫视,http://goo.bkpcp.top/mg/sxws
 湖北卫视,http://goo.bkpcp.top/mg/hubws
-江西卫视,http://goo.bkpcp.top/mg/jxws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
-海南卫视,http://goo.bkpcp.top/mg/hinws
 安徽卫视,http://goo.bkpcp.top/mg/ahws
 北京卫视,http://goo.bkpcp.top/mg/bjws
+广东卫视,http://goo.bkpcp.top/mg/gdws
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 东方卫视,http://goo.bkpcp.top/mg/dfws
 东南卫视,http://goo.bkpcp.top/mg/dnws
 甘肃卫视,http://goo.bkpcp.top/mg/gsws
 广西卫视,http://goo.bkpcp.top/mg/gxws
-贵州卫视,http://goo.bkpcp.top/mg/gzws
 河北卫视,http://goo.bkpcp.top/mg/hbws
 河南卫视,http://goo.bkpcp.top/mg/hnws
 黑龙江卫视,http://goo.bkpcp.top/mg/hljws
@@ -253,20 +193,28 @@ CHC动作电影,https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 吉林卫视,http://goo.bkpcp.top/mg/jlws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
 辽宁卫视,http://goo.bkpcp.top/mg/lnws
-内蒙古卫视,http://goo.bkpcp.top/mg/nmws
 宁夏卫视,http://goo.bkpcp.top/mg/nxws
 青海卫视,http://goo.bkpcp.top/mg/qhws
-厦门卫视,http://goo.bkpcp.top/mg/xmws
 山东卫视,http://goo.bkpcp.top/mg/sdws
 深圳卫视,http://goo.bkpcp.top/mg/szws
 四川卫视,http://goo.bkpcp.top/mg/scws
-西藏卫视,http://goo.bkpcp.top/mg/xzws
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 云南卫视,http://goo.bkpcp.top/mg/ynws
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 重庆卫视,http://goo.bkpcp.top/mg/cqws
-
-
+天津卫视,http://goo.bkpcp.top/mg/tjws
+江西卫视,http://goo.bkpcp.top/mg/jxws
+海南卫视,http://goo.bkpcp.top/mg/hinws
+贵州卫视,http://goo.bkpcp.top/mg/gzws
+内蒙古卫视,http://goo.bkpcp.top/mg/nmws
+厦门卫视,http://goo.bkpcp.top/mg/xmws
+西藏卫视,http://goo.bkpcp.top/mg/xzws
+延边卫视,http://goo.bkpcp.top/mg/ybws
+江苏教育,http://goo.bkpcp.top/mg/jsjy
+山东教育,http://goo.bkpcp.top/mg/sdjy
+四海钓鱼,http://goo.bkpcp.top/mg/shdy
+游戏风云,http://goo.bkpcp.top/mg/yxfy
+欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 
 安徽卫视,http://148.135.93.213/live.php?id=安徽卫视
 北京卫视,http://148.135.93.213/live.php?id=北京卫视
