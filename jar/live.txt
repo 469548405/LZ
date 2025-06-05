@@ -171,10 +171,6 @@ CCTV17农业农村,https://www.freetv.top/migu/673168256.m3u8?migutoken=6601b6da
 
 CCTV4中文国际·欧洲,https://www.freetv.top/migu/608807419.m3u8?migutoken=da2bebaf4733da74b351c9da1aff5ae6f2bddc5dfe106f07afdf8b3fe2c9f8b79ff9a536c062d0d9cf20441a8974dee6424704cce328271d659b9f52f3c21fb4654a0ead9a7d75bbd1fedb1752
 CCTV4中文国际·美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=f8021878f57d5e1d12978bc60dff5cfd6edff248962eb4cc940b27d679485a56ca27af4d70fd20445ed5487d7343cd537edba58668f7b53266277be9f6ba4f3601afe11104de0ad1bd16cb5178
-CETV1,https://www.freetv.top/migu/923287154.m3u8?migutoken=73bad32cada861c9be8e3969d80e0a91e045771f90c3d287a69c023a814ab79b3dc76f30f960e5d634ef46b13195ed7076b39352f390083d85ea9ab5b7e566e9552f5dca9a5d05176f31f74a58
-CETV2,https://www.freetv.top/migu/923287211.m3u8?migutoken=26dc173398ae8ad92e223152ccb04945b35eb8f01742c56c30b3186deeaabc552012297df595310f6121ce2b884157cb2cd5c94eaa669235bcb99d161f57d5a4091175d4f0d865fc5d13a0fc77
-CETV4,https://www.freetv.top/migu/923287339.m3u8?migutoken=88210b25ff0dee2503ec3d77ae95361944b2a23a19ec0a3271030af3be603e874042fd031f513d304bada8d08a441f559fe712202907a986c066d9c949467d10cc56d40861c216ff83b3177fbc
-
 CCTV发现之旅,http://goo.bkpcp.top/mg/fxzl
 CCTV老故事,http://goo.bkpcp.top/mg/lgs
 CCTV中学生,http://goo.bkpcp.top/mg/zxs
@@ -326,7 +322,6 @@ CHC影迷电影,https://www.freetv.top/migu/952383261.m3u8?migutoken=0f03f8a6f21
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=c11ab37089b08b36b901c4a2b424fdc56b62cf85ce22799954221dfb115dc4aa5e75fe6d38966f51998989eda40a5cd26c2f0dcf4d9c3feac17664585c7cb85e992bfd1a7209ee633417590889
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=25ab7db9c8d8b355cb9de7d0624865d4f827d7b8bba8d1bb6ec8e3840f056dfc766ab8c16f1f34f1dcee0be941b49d3bbea828020ed464ce1b4eb3d0f9249f17518f894d02bc8352881d2a4249
 
-海峡卫视,http://8.138.7.223/tv/fjtv1.php?id=hxws
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
