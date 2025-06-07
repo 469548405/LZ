@@ -26,7 +26,11 @@
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
 
 重温经典,http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
 重温经典,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cwjd
@@ -34,7 +38,34 @@
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 
+凤凰中文,http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv
+凤凰资讯,http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv
+凤凰香港,http://ali.hlspull.yximgs.com/live/7532e23fe1350d23bf72e13b95954253.flv
+CHC动作电影,http://ali.hlspull.yximgs.com/live/6871dafc920a73e359888af4ea3eb1e8.flv
+CHC家庭影院,http://ali.hlspull.yximgs.com/live/7d1b72eb97316a2b539bb471c1d82c94.flv
+CHC影迷电影,http://ali.hlspull.yximgs.com/live/d557f743cc2d9d0e6ed2b1883e67d1ff.flv
+
+
 📺央视频道👉,#genre#
+CCTV1综合,http://148.135.93.213/live.php?id=CCTV1
+CCTV2财经,http://148.135.93.213/live.php?id=CCTV2
+CCTV3综艺,http://148.135.93.213/live.php?id=CCTV3
+CCTV4中文国际,http://148.135.93.213/live.php?id=CCTV4
+CCTV5体育,http://148.135.93.213/live.php?id=CCTV5
+CCTV5+体育赛事,http://148.135.93.213/live.php?id=CCTV5p
+CCTV6电影,http://148.135.93.213/live.php?id=CCTV6
+CCTV7国防军事,http://148.135.93.213/live.php?id=CCTV7
+CCTV8电视剧,http://148.135.93.213/live.php?id=CCTV8
+CCTV9纪录,http://148.135.93.213/live.php?id=CCTV9
+CCTV10科教,http://148.135.93.213/live.php?id=CCTV10
+CCTV11戏曲,http://148.135.93.213/live.php?id=CCTV11
+CCTV12社会与法,http://148.135.93.213/live.php?id=CCTV12
+CCTV13新闻,http://148.135.93.213/live.php?id=CCTV13
+CCTV14少儿,http://148.135.93.213/live.php?id=CCTV14
+CCTV15音乐,http://148.135.93.213/live.php?id=CCTV15
+CCTV16奥林匹克,http://148.135.93.213/live.php?id=CCTV16
+CCTV17农业农村,http://148.135.93.213/live.php?id=CCTV17
+
 CCTV1综合,http://goo.bkpcp.top/mg/cctv1
 CCTV2财经,http://goo.bkpcp.top/mg/cctv2
 CCTV3综艺,http://goo.bkpcp.top/mg/cctv3
@@ -56,25 +87,9 @@ CCTV15音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV16奥林匹克,http://goo.bkpcp.top/mg/cctv16
 CCTV17农业农村,http://goo.bkpcp.top/mg/cctv17
 
-
-CCTV1综合,http://123.149.237.171:9003//hls/1/index.m3u8
-CCTV2财经,http://123.149.237.171:9003//hls/2/index.m3u8
-CCTV3综艺,http://123.149.237.171:9003//hls/3/index.m3u8
-CCTV4中文国际,http://123.149.237.171:9003//hls/4/index.m3u8
-CCTV5体育,http://123.149.237.171:9003//hls/5/index.m3u8
-CCTV6电影,http://123.149.237.171:9003//hls/6/index.m3u8
-CCTV7国防军事,http://123.149.237.171:9003//hls/7/index.m3u8
-CCTV8电视剧,http://123.149.237.171:9003//hls/8/index.m3u8
-CCTV9纪录,http://123.149.237.171:9003//hls/9/index.m3u8
-CCTV10科教,http://123.149.237.171:9003//hls/10/index.m3u8
-CCTV11戏曲,http://123.149.237.171:9003//hls/11/index.m3u8
-CCTV12社会与法,http://123.149.237.171:9003//hls/12/index.m3u8
-CCTV13新闻,http://123.149.237.171:9003//hls/13/index.m3u8
-CCTV14少儿,http://123.149.237.171:9003//hls/14/index.m3u8
-
-CCTV发现之旅,http://goo.bkpcp.top/mg/fxzl
-CCTV老故事,http://goo.bkpcp.top/mg/lgs
-CCTV中学生,http://goo.bkpcp.top/mg/zxs
+中天新影-发现之旅,http://goo.bkpcp.top/mg/fxzl
+中天新影-老故事,http://goo.bkpcp.top/mg/lgs
+中天新影-中学生,http://goo.bkpcp.top/mg/zxs
 
 CGTN纪录,http://goo.bkpcp.top/mg/cgtnjl
 CGTN西语,http://goo.bkpcp.top/mg/cgtne
@@ -90,20 +105,31 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
 📺卫视频道👉,#genre#
-CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
-CHC动作电影,http://goo.bkpcp.top/mg/dzdy
-CHC家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
 CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
 CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
+重温经典,http://148.135.93.213/live.php?id=重温经典
+香港卫视,http://148.135.93.213/live.php?id=香港卫视
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
+CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 
-重温经典,http://148.135.93.213/live.php?id=重温经典
+北京卫视,http://148.135.93.213/live.php?id=北京卫视
+东方卫视,http://148.135.93.213/live.php?id=东方卫视
+广东卫视,http://148.135.93.213/live.php?id=广东卫视
+湖北卫视,http://148.135.93.213/live.php?id=湖北卫视
+湖南卫视,http://148.135.93.213/live.php?id=湖南卫视
+江苏卫视,http://148.135.93.213/live.php?id=江苏卫视
+江西卫视,http://148.135.93.213/live.php?id=江西卫视
+内蒙古卫视,http://148.135.93.213/live.php?id=内蒙古卫视
+陕西卫视,http://148.135.93.213/live.php?id=陕西卫视
 香港卫视,http://148.135.93.213/live.php?id=香港卫视
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+新疆卫视,http://148.135.93.213/live.php?id=新疆卫视
+浙江卫视,http://148.135.93.213/live.php?id=浙江卫视
 
 安徽卫视,http://goo.bkpcp.top/mg/ahws
 北京卫视,http://goo.bkpcp.top/mg/bjws
@@ -137,23 +163,43 @@ CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 重庆卫视,http://goo.bkpcp.top/mg/cqws
 
-北京卫视,http://123.149.237.171:9003//hls/20/index.m3u8
-东方卫视,http://123.149.237.171:9003//hls/21/index.m3u8
-浙江卫视,http://123.149.237.171:9003//hls/19/index.m3u8
-江苏卫视,http://123.149.237.171:9003//hls/18/index.m3u8
-湖南卫视,http://123.149.237.171:9003//hls/17/index.m3u8
-深圳卫视,http://123.149.237.171:9003//hls/24/index.m3u8
-安徽卫视,http://123.149.237.171:9003//hls/23/index.m3u8
-山东卫视,http://123.149.237.171:9003//hls/22/index.m3u8
-河南卫视,http://123.149.237.171:9003//hls/15/index.m3u8
 
 云南卫视,http://hbhyjq.ufyct.com:1088/hls/41/index.m3u8
 山西卫视,http://hbhyjq.ufyct.com:1088/hls/35/index.m3u8
-山西卫视,http://sh.lnott.top:880/dx39.m3u8
-甘肃卫视,http://sh.lnott.top:880/dx56.m3u8
 
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+安多卫视,http://148.135.93.213/live.php?id=安多卫视
+安徽卫视,http://148.135.93.213/live.php?id=安徽卫视
+兵团卫视,http://148.135.93.213/live.php?id=兵团卫视
+大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
+东南卫视,http://148.135.93.213/live.php?id=东南卫视
+甘肃卫视,http://148.135.93.213/live.php?id=甘肃卫视
+广西卫视,http://148.135.93.213/live.php?id=广西卫视
+贵州卫视,http://148.135.93.213/live.php?id=贵州卫视
+海南卫视,http://148.135.93.213/live.php?id=海南卫视
+海峡卫视,http://148.135.93.213/live.php?id=海峡卫视
+河北卫视,http://148.135.93.213/live.php?id=河北卫视
+河南卫视,http://148.135.93.213/live.php?id=河南卫视
+黑龙江卫视,http://148.135.93.213/live.php?id=黑龙江卫视
+吉林卫视,http://148.135.93.213/live.php?id=吉林卫视
+康巴卫视,http://148.135.93.213/live.php?id=康巴卫视
+辽宁卫视,http://148.135.93.213/live.php?id=辽宁卫视
+宁夏卫视,http://148.135.93.213/live.php?id=宁夏卫视
+农林卫视,http://148.135.93.213/live.php?id=农林卫视
+青海卫视,http://148.135.93.213/live.php?id=青海卫视
+三沙卫视,http://148.135.93.213/live.php?id=三沙卫视
+厦门卫视,http://148.135.93.213/live.php?id=厦门卫视
+山东卫视,http://148.135.93.213/live.php?id=山东卫视
+山西卫视,http://148.135.93.213/live.php?id=山西卫视
+深圳卫视,http://148.135.93.213/live.php?id=深圳卫视
+四川卫视,http://148.135.93.213/live.php?id=四川卫视
+天津卫视,http://148.135.93.213/live.php?id=天津卫视
+西藏卫视,http://148.135.93.213/live.php?id=西藏卫视
+延边卫视,http://148.135.93.213/live.php?id=延边卫视
+云南卫视,http://148.135.93.213/live.php?id=云南卫视
+重庆卫视,http://148.135.93.213/live.php?id=重庆卫视
 
 📺全国地方👉,#genre#
 达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
