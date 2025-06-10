@@ -44,15 +44,16 @@ CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy
 
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 CHC家庭影院,http://eastscreen.tv/ooooo.php?id=chcjt
 CHC影迷电影,http://eastscreen.tv/ooooo.php?id=chchd
 
-重温经典,http://148.135.93.213/live.php?id=重温经典
-五星体育,http://148.135.93.213/live.php?id=五星体育
 凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
 凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
 凤凰香港,http://148.135.93.213/phenix.php?id=fhhk
+重温经典,http://148.135.93.213/live.php?id=重温经典
 
 📺央视频道👉,#genre#
 CCTV1综合,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
@@ -160,8 +161,8 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
-北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
+北京卫视,http://qwt.zhibotv.top:2016/全网通.php?id=北京卫视
 东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 东南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东南卫视
 甘肃卫视,http://qwt.zhibotv.top:2016/全网通.php?id=甘肃卫视
@@ -190,6 +191,38 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
+
+安徽卫视,http://itv.iptv1688.top:2016/itv.php?id=安徽卫视
+北京卫视,http://itv.iptv1688.top:2016/itv.php?id=北京卫视
+东方卫视,http://itv.iptv1688.top:2016/itv.php?id=东方卫视
+东南卫视,http://itv.iptv1688.top:2016/itv.php?id=东南卫视
+甘肃卫视,http://itv.iptv1688.top:2016/itv.php?id=甘肃卫视
+广东卫视,http://itv.iptv1688.top:2016/itv.php?id=广东卫视
+广西卫视,http://itv.iptv1688.top:2016/itv.php?id=广西卫视
+贵州卫视,http://itv.iptv1688.top:2016/itv.php?id=贵州卫视
+海南卫视,http://itv.iptv1688.top:2016/itv.php?id=海南卫视
+河北卫视,http://itv.iptv1688.top:2016/itv.php?id=河北卫视
+河南卫视,http://itv.iptv1688.top:2016/itv.php?id=河南卫视
+黑龙江卫视,http://itv.iptv1688.top:2016/itv.php?id=黑龙江卫视
+湖北卫视,http://itv.iptv1688.top:2016/itv.php?id=湖北卫视
+湖南卫视,http://itv.iptv1688.top:2016/itv.php?id=湖南卫视
+吉林卫视,http://itv.iptv1688.top:2016/itv.php?id=吉林卫视
+江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
+江西卫视,http://itv.iptv1688.top:2016/itv.php?id=江西卫视
+辽宁卫视,http://itv.iptv1688.top:2016/itv.php?id=辽宁卫视
+内蒙古卫视,http://itv.iptv1688.top:2016/itv.php?id=内蒙古卫视
+宁夏卫视,http://itv.iptv1688.top:2016/itv.php?id=宁夏卫视
+青海卫视,http://itv.iptv1688.top:2016/itv.php?id=青海卫视
+山东卫视,http://itv.iptv1688.top:2016/itv.php?id=山东卫视
+山西卫视,http://itv.iptv1688.top:2016/itv.php?id=山西卫视
+陕西卫视,http://itv.iptv1688.top:2016/itv.php?id=陕西卫视
+深圳卫视,http://itv.iptv1688.top:2016/itv.php?id=深圳卫视
+四川卫视,http://itv.iptv1688.top:2016/itv.php?id=四川卫视
+天津卫视,http://itv.iptv1688.top:2016/itv.php?id=天津卫视
+新疆卫视,http://itv.iptv1688.top:2016/itv.php?id=新疆卫视
+浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
+重庆卫视,http://itv.iptv1688.top:2016/itv.php?id=重庆卫视
+
 
 香港卫视,http://148.135.93.213/live.php?id=香港卫视
 湖南卫视,http://148.135.93.213/live.php?id=湖南卫视
