@@ -2,7 +2,7 @@
 
 "spider":"./pg.jar",
 
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+"wallpaper":"https://bing.img.run/rand.php",
 
 "lives":[
 {"name":"【定制节目】","type":0,"url":"./jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
