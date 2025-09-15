@@ -3,10 +3,17 @@
 "wallpaper":"https://bing.img.run/rand.php",
 
 "lives":[
-{"name":"【定制节目】","type":0,"url":"https://gitee.com/RS818/LZ/raw/master/jar/live.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
-{"name":"【APTV专用】","type":0,"url":"https://gitee.com/RS818/LZ/raw/master/jar/iptv.m3u","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
+{"name":"【洪宇一起看】","type":0,"url":"./yqk3.m3u","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},        
 {"name":"【梯子直播】","type":0,"url":"https://tv.iill.top/m3u/Gather","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","playerType":2},
-{"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15","playerType":2},
+{"name":"【洪宇咪咕测试】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/gxhgp/n1/f9c7edb85ea0151bdf58d8ee9c5743c27b5e2c0d/by.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
+{"name":"【洪宇星河测试】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/sky6698/sky/6f5d88dec4d1022dcc61d3bc53234b251b8ac9d1/xh.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},	
+{"name":"【洪宇墙里墙外1】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/bhzb4.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
+{"name":"【洪宇墙里墙外】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/nt2020xp/01/refs/heads/main/tv.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
+{"name":"【洪宇定制星河】","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/sky6698/sky/6f5d88dec4d1022dcc61d3bc53234b251b8ac9d1/xh.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
+{"name":"【洪宇定制星河2】","type":0,"url":"http://xn--kiv79l.xyz/%E4%BA%91%E9%9C%84%E4%BB%99%E5%AD%90.txt","ua":"okhttp/3.15,AptvPlayer/1.4.0","logo":"https://epg.v1.mk/logo/{name}.png","playerType":2},
+
+ {"name":"[洪宇]咪咕","type":0,"url":"https://daili.korice.eu.org/https://raw.githubusercontent.com/nt2020xp/01/6695e7739c718f333bb19fc088cdb72f321320a5/bh.txt","ua":"okhttp/3.15","logo":"https://gitee.com/yu_shan_fei/zby/raw/master/TV/%E6%B4%AA%E5%AE%87TV/HYDIY800X1200.png"},
+  {"name":"【V4聚合】","type":0,"url":"https://slink.ltd/raw.githubusercontent.com/wwb521/live/main/tv.m3u","ua":"okhttp/3.15","playerType":2},
 {"name":"【北京移动】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/bjyd.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"playerType":2},
 {"name":"【国内直播(合并)】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/all.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"playerType":2},
 {"name":"【国内直播(分类)】","type":0,"url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u","ua":"okhttp/3.15","logo":"http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"playerType":2},
@@ -118,6 +125,7 @@
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],"ads":["43.248.128.138"]
 
 }
+
 
 
 
